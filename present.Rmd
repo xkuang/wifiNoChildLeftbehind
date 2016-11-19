@@ -121,5 +121,5 @@ locations <- geocode(as.character(K3$DEVELOPMENT))
 
 write.csv(locations, file = "locations.csv", row.names = FALSE)
 ```
-https://aschwtzr.carto.com/builder/2f41d330-a945-11e6-9553-0e05a8b3e3d7
+
 image: ![](carto.png)
