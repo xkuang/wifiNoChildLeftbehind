@@ -1,0 +1,1680 @@
+OBJECTID,BORO,TYPE,PROVIDER,LAT,LON,LOCATION_T,CITY
+433,BK,Free,BPL,40.5926531297,-73.9886820957,Library,Brooklyn
+434,QU,Free,QPL,40.7201684296,-73.7623041123,Library,Hollis
+435,BK,Free,BPL,40.6197681963,-73.9332132562,Library,Brooklyn
+436,BK,Free,BPL,40.6356942225,-73.9745947088,Library,Brooklyn
+437,SI,Free,NYPL,40.6095774994,-74.1485024503,Library,Staten Island
+438,QU,Free,QPL,40.7592451348,-73.7318266816,Library,Little Neck
+439,QU,Free,QPL,40.6803113116,-73.7916786111,Library,Jamaica
+440,QU,Free,QPL,40.7025766648,-73.8757971089,Library,Glendale
+441,BX,Free,NYPL,40.8494940806,-73.9175775272,Library,Bronx
+442,BK,Free,BPL,40.7069304247,-73.9575546134,Library,Brooklyn
+443,BK,Free,BPL,40.6102566673,-73.9531058487,Library,Brooklyn
+444,MN,Free,NYPL,40.8061604421,-73.9433155984,Library,New York
+445,BX,Free,NYPL,40.8379589117,-73.9235396129,Library,Bronx
+446,QU,Free,QPL,40.6869072882,-73.8248296985,Library,Richmond Hill
+447,BK,Free,BPL,40.6682166933,-73.9834274329,Library,Brooklyn
+448,BX,Free,NYPL,40.8299928753,-73.8750206002,Library,Bronx
+449,QU,Free,QPL,40.7606431176,-73.9364719875,Library,Long Island City
+450,QU,Free,QPL,40.745341713,-73.9097937387,Library,Woodside
+451,QU,Free,QPL,40.7292529463,-73.7819089166,Library,Flushing
+452,BK,Free,BPL,40.7045590639,-73.9396184214,Library,Brooklyn
+453,BX,Free,NYPL,40.8206415647,-73.9046288601,Library,Bronx
+454,QU,Free,QPL,40.6638044606,-73.8417968638,Library,Howard Beach
+455,MN,Free,NYPL,40.7481246964,-73.9830630999,Library,New York
+456,MN,Free,NYPL,40.7612533724,-73.9501658898,Library,New York
+457,BX,Free,NYPL,40.8266092254,-73.8501814579,Library,Bronx
+458,BK,Free,BPL,40.6818101974,-73.9561085144,Library,Brooklyn
+459,BX,Free,NYPL,40.8229035714,-73.8190936365,Library,Bronx
+460,QU,Free,QPL,40.6728752044,-73.7705902161,Library,Jamaica
+461,QU,Free,QPL,40.7051723129,-73.902572375,Library,Ridgewood
+462,QU,Free,QPL,40.604772113,-73.7520918927,Library,Far Rockaway
+463,BK,Free,BPL,40.713644888,-73.9479357128,Library,Brooklyn
+464,QU,Free,QPL,40.6955401466,-73.7902273917,Library,Jamaica
+465,BK,Free,BPL,40.6159160785,-73.9760404894,Library,Brooklyn
+466,BK,Free,BPL,40.6163731106,-74.0313694054,Library,Brooklyn
+467,BX,Free,NYPL,40.8543469054,-73.8878894289,Library,Bronx
+468,QU,Free,QPL,40.6007321052,-73.8200526582,Library,Broad Channel
+469,SI,Free,NYPL,40.5665301462,-74.1385338765,Library,Staten Island
+470,MN,Free,NYPL,40.7531840458,-73.9821581041,Library,New York
+471,MN,Free,NYPL,40.7299829146,-74.0053310145,Library,New York
+472,QU,Free,QPL,40.6747769261,-73.8092618174,Library,South Ozone Park
+473,QU,Free,QPL,40.7111856291,-73.8536727785,Library,Forest Hills
+474,MN,Free,NYPL,40.7346055255,-73.9991692843,Library,New York
+475,BK,Free,BPL,40.6557102014,-73.9149383856,Library,Brooklyn
+476,QU,Free,QPL,40.6808618482,-73.8464887284,Library,Ozone Park
+477,BK,Free,BPL,40.664453793,-73.9052223115,Library,Brooklyn
+478,BK,Free,BPL,40.6408035472,-73.9659650781,Library,Brooklyn
+479,QU,Free,QPL,40.700765268,-73.8316254169,Library,Richmond Hill
+480,MN,Free,NYPL,40.7380871204,-73.9820488896,Library,New York
+481,MN,Free,NYPL,40.7144564597,-73.9885372705,Library,New York
+482,BK,Free,BPL,40.683004902,-73.9348054703,Library,Brooklyn
+483,MN,Free,NYPL,40.8146886279,-73.9409529891,Library,New York
+484,BX,Free,NYPL,40.8440019118,-73.9100871445,Library,Bronx
+485,BK,Free,BPL,40.632636993,-73.9199848808,Library,Brooklyn
+486,BX,Free,NYPL,40.870139703,-73.8450642753,Library,Bronx
+487,SI,Free,NYPL,40.5719318484,-74.1119581475,Library,Staten Island
+488,BX,Free,NYPL,40.8910850654,-73.8595812441,Library,Bronx
+489,BK,Free,BPL,40.619868421,-73.9170212071,Library,Brooklyn
+490,SI,Free,NYPL,40.6345089423,-74.1148218734,Library,Staten Island
+491,MN,Free,NYPL,40.7438226298,-73.9799076544,Library,New York
+492,MN,Free,NYPL,40.7404654556,-73.9933569112,Library,New York
+493,BX,Free,NYPL,40.8690393929,-73.9011937916,Library,Bronx
+494,QU,Free,QPL,40.758529267,-73.9186233204,Library,Long Island City
+495,QU,Free,QPL,40.7385814574,-73.8767587664,Library,Elmhurst
+496,QU,Free,QPL,40.7059620938,-73.7944075307,Library,Jamaica
+497,SI,Free,NYPL,40.5524232628,-74.1511116431,Library,Staten Island
+498,MN,Free,NYPL,40.7136065153,-74.0078616724,Library,New York
+499,MN,Free,NYPL,40.7193972838,-73.9796055959,Library,New York
+500,BX,Free,NYPL,40.8186874033,-73.8941356433,Library,Bronx
+501,BX,Free,NYPL,40.866804429,-73.8632224848,Library,Bronx
+502,MN,Free,NYPL,40.7133330705,-73.9964898664,Library,New York
+503,QU,Free,QPL,40.7601255812,-73.7683619807,Library,Bayside
+504,QU,Free,QPL,40.5793908722,-73.8377356028,Library,Rockaway Park
+505,BK,Free,BPL,40.5766377761,-73.9860619926,Library,Brooklyn
+506,MN,Free,NYPL,40.8265670801,-73.9359395884,Library,New York
+507,QU,Free,QPL,40.757803428,-73.939309302,Library,Long Island City
+508,BX,Free,NYPL,40.8629806052,-73.8945028865,Library,Bronx
+509,BX,Free,NYPL,40.8480291101,-73.8569578538,Library,Bronx
+510,MN,Free,NYPL,40.7240963609,-73.995698993,Library,New York
+511,MN,Free,NYPL,40.7540678756,-73.9735677168,Library,New York
+512,MN,Free,Manhattan Down Alliance,40.7041015998,-74.0076981,Outdoor,New York
+513,MN,Free,Manhattan Down Alliance,40.7036018001,-74.0074996996,Outdoor,New York
+514,MN,Free,Manhattan Down Alliance,40.7033997,-74.0084000005,Outdoor,New York
+515,MN,Free,Manhattan Down Alliance,40.7041016002,-74.0092009996,Outdoor,New York
+516,MN,Free,Manhattan Down Alliance,40.7033004998,-74.0093002002,Outdoor,New York
+517,MN,Free,Manhattan Down Alliance,40.7028998998,-74.0095978002,Outdoor,New York
+518,MN,Free,Manhattan Down Alliance,40.7028008004,-74.0094985998,Outdoor,New York
+519,MN,Free,Manhattan Down Alliance,40.7030983001,-74.0106963996,Outdoor,New York
+520,MN,Free,Manhattan Down Alliance,40.7023010001,-74.0126038001,Outdoor,New York
+521,MN,Free,Manhattan Down Alliance,40.7019005001,-74.0124969005,Outdoor,New York
+522,MN,Free,Manhattan Down Alliance,40.7015990998,-74.0093001995,Outdoor,New York
+523,MN,Free,Manhattan Down Alliance,40.7051009996,-74.0139998997,Outdoor,New York
+524,MN,Free,Manhattan Down Alliance,40.7051009999,-74.0139008001,Outdoor,New York
+525,MN,Free,Manhattan Down Alliance,40.7041015999,-74.0105971997,Outdoor,New York
+526,MN,Free,Manhattan Down Alliance,40.7038994,-74.0103988997,Outdoor,New York
+527,MN,Free,Manhattan Down Alliance,40.7043990997,-74.0101012997,Outdoor,New York
+528,MN,Free,Manhattan Down Alliance,40.7042998996,-74.0102005003,Outdoor,New York
+529,MN,Free,Manhattan Down Alliance,40.7079009996,-74.0121993994,Outdoor,New York
+530,MN,Free,Manhattan Down Alliance,40.7086982997,-74.0130997003,Outdoor,New York
+531,MN,Free,Manhattan Down Alliance,40.7130013004,-74.0118027004,Outdoor,New York
+532,MN,Free,Manhattan Down Alliance,40.7132988003,-74.0118026998,Outdoor,New York
+533,MN,Free,Manhattan Down Alliance,40.7081985002,-74.0121002005,Outdoor,New York
+534,MN,Free,Manhattan Down Alliance,40.7080993998,-74.0119018998,Outdoor,New York
+535,MN,Free,Manhattan Down Alliance,40.7080001998,-74.0118027001,Outdoor,New York
+536,SI,Limited Free,Time Warner Cable,40.618237,-74.107213,Indoor,Staten Island
+537,SI,Limited Free,Time Warner Cable,40.618237,-74.107213,Indoor,Staten Island
+538,SI,Limited Free,Time Warner Cable,40.618237,-74.107213,Indoor,Staten Island
+539,BK,Limited Free,Time Warner Cable,40.677193,-74.008723,Outdoor,Brooklyn
+1162,MN,Free,Harlem,40.801846,-73.945137,Outdoor,New York
+1163,MN,Free,Harlem,40.805974,-73.941244,Outdoor,New York
+1164,MN,Free,Harlem,40.805971,-73.940566,Outdoor,New York
+1165,MN,Free,Harlem,40.815347,-73.947576,Outdoor,New York
+1166,MN,Free,Harlem,40.811568,-73.946537,Outdoor,New York
+1167,MN,Free,Harlem,40.812871,-73.949346,Outdoor,New York
+1168,MN,Free,Harlem,40.806297,-73.943912,Outdoor,New York
+1169,MN,Free,Harlem,40.811684,-73.950042,Outdoor,New York
+1170,MN,Free,Harlem,40.815936,-73.942971,Outdoor,New York
+1171,MN,Free,Harlem,40.812181,-73.937834,Outdoor,New York
+1172,MN,Free,Harlem,40.80349,-73.956094,Outdoor,New York
+1173,MN,Free,Harlem,40.812186,-73.947955,Outdoor,New York
+1174,MN,Free,Harlem,40.812598,-73.946296,Outdoor,New York
+1175,MN,Free,Harlem,40.805058,-73.947815,Outdoor,New York
+1176,MN,Free,Harlem,40.805228,-73.947675,Outdoor,New York
+1177,MN,Free,Harlem,40.804279,-73.952533,Outdoor,New York
+1178,MN,Free,Harlem,40.804169,-73.952133,Outdoor,New York
+1179,MN,Free,Harlem,40.806858,-73.949726,Outdoor,New York
+1180,MN,Free,Harlem,40.801137,-73.953778,Outdoor,New York
+1181,MN,Free,Harlem,40.806016,-73.9524,Outdoor,New York
+1182,MN,Free,Harlem,40.805429,-73.942537,Outdoor,New York
+1183,MN,Free,Harlem,40.800479,-73.944696,Outdoor,New York
+1184,MN,Free,Harlem,40.798728,-73.945598,Outdoor,New York
+1185,MN,Free,Harlem,40.797893,-73.948786,Outdoor,New York
+1186,MN,Free,Harlem,40.801527,-73.952822,Outdoor,New York
+1187,MN,Free,Harlem,40.805393,-73.953661,Outdoor,New York
+1188,MN,Free,Harlem,40.802337,-73.956706,Outdoor,New York
+1189,MN,Free,Harlem,40.810975,-73.947029,Outdoor,New York
+1190,MN,Free,Harlem,40.809398,-73.939561,Outdoor,New York
+1191,MN,Free,Harlem,40.808843,-73.950495,Outdoor,New York
+1192,MN,Free,Harlem,40.805302,-73.953054,Outdoor,New York
+1193,MN,Free,Harlem,40.806412,-73.952662,Outdoor,New York
+1194,MN,Free,Harlem,40.805584,-73.950536,Outdoor,New York
+1195,MN,Free,Harlem,40.81277,-73.93765,Outdoor,New York
+1196,MN,Free,Harlem,40.80623,-73.953922,Outdoor,New York
+1197,MN,Free,Harlem,40.805791,-73.954438,Outdoor,New York
+1198,MN,Free,Harlem,40.804269,-73.955388,Outdoor,New York
+1199,MN,Free,Harlem,40.801294,-73.957722,Outdoor,New York
+1200,MN,Free,Harlem,40.803087,-73.942356,Outdoor,New York
+1201,MN,Free,Harlem,40.804242,-73.94178,Outdoor,New York
+1202,MN,Free,Harlem,40.804958,-73.941374,Outdoor,New York
+1203,MN,Free,Harlem,40.805624,-73.942812,Outdoor,New York
+1204,MN,Free,Harlem,40.806569,-73.944977,Outdoor,New York
+1205,MN,Free,Harlem,40.809576,-73.951689,Outdoor,New York
+1206,MN,Free,Harlem,40.807263,-73.946637,Outdoor,New York
+1207,MN,Free,Harlem,40.806086,-73.949224,Outdoor,New York
+1208,MN,Free,Harlem,40.810601,-73.950577,Outdoor,New York
+1209,MN,Free,Harlem,40.810178,-73.948924,Outdoor,New York
+1210,MN,Free,Harlem,40.811266,-73.950126,Outdoor,New York
+1211,MN,Free,Harlem,40.81026,-73.93951,Outdoor,New York
+1212,MN,Free,Harlem,40.806413,-73.940149,Outdoor,New York
+1213,MN,Free,Harlem,40.807092,-73.939714,Outdoor,New York
+1214,MN,Free,Harlem,40.807594,-73.939065,Outdoor,New York
+1215,MN,Free,Harlem,40.815114,-73.941112,Outdoor,New York
+1216,MN,Free,Harlem,40.808297,-73.93889,Outdoor,New York
+1217,MN,Free,Harlem,40.808224,-73.940778,Outdoor,New York
+1218,MN,Free,Harlem,40.810532,-73.943671,Outdoor,New York
+1219,MN,Free,Harlem,40.809617,-73.942117,Outdoor,New York
+1220,MN,Free,Harlem,40.811198,-73.943866,Outdoor,New York
+1221,MN,Free,Harlem,40.812037,-73.946231,Outdoor,New York
+1222,MN,Free,Harlem,40.813366,-73.948843,Outdoor,New York
+1223,MN,Free,Harlem,40.812628,-73.945444,Outdoor,New York
+1224,MN,Free,Harlem,40.812418,-73.944689,Outdoor,New York
+1225,MN,Free,Harlem,40.811841,-73.942725,Outdoor,New York
+1226,MN,Free,Harlem,40.813986,-73.948359,Outdoor,New York
+1227,MN,Free,Harlem,40.814125,-73.946993,Outdoor,New York
+1228,MN,Free,Harlem,40.813122,-73.944376,Outdoor,New York
+1229,MN,Free,Harlem,40.811835,-73.94135,Outdoor,New York
+1230,MN,Free,Harlem,40.810795,-73.938925,Outdoor,New York
+1231,MN,Free,Harlem,40.816089,-73.946688,Outdoor,New York
+1232,MN,Free,Harlem,40.81393,-73.944955,Outdoor,New York
+1233,MN,Free,Harlem,40.815693,-73.947008,Outdoor,New York
+1234,MN,Free,Harlem,40.809559,-73.943417,Outdoor,New York
+1235,MN,Free,Harlem,40.811575,-73.938453,Outdoor,New York
+1236,MN,Free,Harlem,40.812002,-73.936231,Outdoor,New York
+1237,MN,Free,Harlem,40.813502,-73.937185,Outdoor,New York
+1238,MN,Free,Harlem,40.814205,-73.936726,Outdoor,New York
+1239,MN,Free,Harlem,40.816677,-73.946392,Outdoor,New York
+1240,MN,Free,Harlem,40.814952,-73.938941,Outdoor,New York
+1241,MN,Free,Harlem,40.815803,-73.940812,Outdoor,New York
+1242,MN,Free,Harlem,40.811236,-73.936507,Outdoor,New York
+1243,MN,Free,Harlem,40.813713,-73.941262,Outdoor,New York
+1244,MN,Free,Harlem,40.809357,-73.944461,Outdoor,New York
+1245,MN,Free,Harlem,40.813646,-73.940053,Outdoor,New York
+1246,MN,Free,Harlem,40.813434,-73.939112,Outdoor,New York
+1247,MN,Free,Harlem,40.811138,-73.942846,Outdoor,New York
+1248,MN,Free,Harlem,40.809672,-73.944004,Outdoor,New York
+1249,MN,Free,Harlem,40.812491,-73.942248,Outdoor,New York
+1250,MN,Free,Harlem,40.812944,-73.941693,Outdoor,New York
+1251,MN,Free,Harlem,40.815705,-73.939519,Outdoor,New York
+1252,MN,Free,Harlem,40.801951,-73.953554,Outdoor,New York
+1253,MN,Free,Harlem,40.800652,-73.954616,Outdoor,New York
+1254,MN,Free,Harlem,40.802298,-73.952405,Outdoor,New York
+1255,MN,Free,Harlem,40.800546,-73.952427,Outdoor,New York
+1256,MN,Free,Harlem,40.803511,-73.952942,Outdoor,New York
+1257,MN,Free,Harlem,40.798102,-73.950349,Outdoor,New York
+1258,MN,Free,Harlem,40.799928,-73.954549,Outdoor,New York
+1259,MN,Free,Harlem,40.801053,-73.950042,Outdoor,New York
+1260,MN,Free,Harlem,40.796528,-73.948492,Outdoor,New York
+1261,MN,Free,Harlem,40.799151,-73.947499,Outdoor,New York
+1262,MN,Free,Harlem,40.800592,-73.946685,Outdoor,New York
+1263,MN,Free,Harlem,40.80135,-73.945756,Outdoor,New York
+1264,MN,Free,Harlem,40.802684,-73.945158,Outdoor,New York
+1265,MN,Free,Harlem,40.798806,-73.949975,Outdoor,New York
+1266,MN,Free,Harlem,40.802617,-73.943026,Outdoor,New York
+1267,MN,Free,Harlem,40.801832,-73.943462,Outdoor,New York
+1268,MN,Free,Harlem,40.801112,-73.943796,Outdoor,New York
+1269,MN,Free,Harlem,40.797335,-73.946924,Outdoor,New York
+1270,MN,Free,Harlem,40.799721,-73.944932,Outdoor,New York
+1271,MN,Free,Harlem,40.797893,-73.946259,Outdoor,New York
+1272,MN,Free,Harlem,40.796554,-73.947474,Outdoor,New York
+3551,MN,Free,Transit Wireless,40.768296,-73.981736,Subway Station,New York
+3552,MN,Free,Transit Wireless,40.760167,-73.975224,Subway Station,New York
+3553,MN,Free,Transit Wireless,40.764811,-73.973347,Subway Station,New York
+3554,MN,Free,Transit Wireless,40.753821,-73.981963,Subway Station,New York
+548,BK,Limited Free,Time Warner Cable,40.677193,-74.008723,Outdoor,Brooklyn
+549,BK,Limited Free,Time Warner Cable,40.677193,-74.008723,Outdoor,Brooklyn
+550,BK,Limited Free,Time Warner Cable,40.677193,-74.008723,Outdoor,Brooklyn
+3555,MN,Free,Transit Wireless,40.77344,-73.982209,Subway Station,New York
+3556,MN,Free,Transit Wireless,40.778453,-73.98197,Subway Station,New York
+3557,MN,Free,Transit Wireless,40.775594,-73.97641,Subway Station,New York
+3558,MN,Free,Transit Wireless,40.783934,-73.979917,Subway Station,New York
+3559,MN,Free,Transit Wireless,40.762862,-73.981637,Subway Station,New York
+3560,MN,Free,Transit Wireless,40.739777,-74.002578,Subway Station,New York
+3561,MN,Free,Transit Wireless,40.781433,-73.972143,Subway Station,New York
+3562,MN,Free,Transit Wireless,40.788644,-73.976218,Subway Station,New York
+3563,MN,Free,Transit Wireless,40.785868,-73.968916,Subway Station,New York
+3564,MN,Free,Transit Wireless,40.791644,-73.964694,Subway Station,New York
+3565,MN,Free,Transit Wireless,40.793919,-73.972323,Subway Station,New York
+3566,MN,Free,Transit Wireless,40.751431,-73.976041,Subway Station,New York
+3567,MN,Free,Transit Wireless,40.751776,-73.976848,Subway Station,New York
+3568,MN,Free,Transit Wireless,40.755983,-73.986229,Subway Station,New York
+3569,MN,Free,Transit Wireless,40.755477,-73.987691,Subway Station,New York
+3570,MN,Free,Transit Wireless,40.754672,-73.986754,Subway Station,New York
+3571,MN,Free,Transit Wireless,40.75529,-73.987495,Subway Station,New York
+3572,MN,Free,Transit Wireless,40.752769,-73.979189,Subway Station,New York
+3573,QU,Free,Transit Wireless,40.754203,-73.942836,Subway Station,Queens
+3574,QU,Free,Transit Wireless,40.742626,-73.953581,Subway Station,Queens
+3575,QU,Free,Transit Wireless,40.742216,-73.948916,Subway Station,Queens
+3576,QU,Free,Transit Wireless,40.747846,-73.946,Subway Station,Queens
+573,QU,Limited Free,Time Warner Cable,40.73121,-73.774084,Outdoor TWC Aerial,Queens
+3577,QU,Free,Transit Wireless,40.746554,-73.943832,Subway Station,Queens
+3578,QU,Free,Transit Wireless,40.744065,-73.949724,Subway Station,Queens
+3579,QU,Free,Transit Wireless,40.749669,-73.898453,Subway Station,Queens
+3580,QU,Free,Transit Wireless,40.733106,-73.869229,Subway Station,Queens
+3581,QU,Free,Transit Wireless,40.756312,-73.913333,Subway Station,Queens
+3582,QU,Free,Transit Wireless,40.752885,-73.906006,Subway Station,Queens
+3583,QU,Free,Transit Wireless,40.742454,-73.882017,Subway Station,Queens
+3584,QU,Free,Transit Wireless,40.709179,-73.820574,Subway Station,Queens
+3585,QU,Free,Transit Wireless,40.721691,-73.844521,Subway Station,Queens
+3586,QU,Free,Transit Wireless,40.70546,-73.810708,Subway Station,Queens
+3587,QU,Free,Transit Wireless,40.702147,-73.801109,Subway Station,Queens
+3588,QU,Free,Transit Wireless,40.712646,-73.783817,Subway Station,Queens
+3589,QU,Free,Transit Wireless,40.737015,-73.877223,Subway Station,Queens
+3590,QU,Free,Transit Wireless,40.752039,-73.928781,Subway Station,Queens
+3591,QU,Free,Transit Wireless,40.748973,-73.937243,Subway Station,Queens
+3592,QU,Free,Transit Wireless,40.756879,-73.92074,Subway Station,Queens
+3593,QU,Free,Transit Wireless,40.707564,-73.803326,Subway Station,Queens
+3594,QU,Free,Transit Wireless,40.71047,-73.793604,Subway Station,Queens
+3595,QU,Free,Transit Wireless,40.729846,-73.861604,Subway Station,Queens
+3596,QU,Free,Transit Wireless,40.726523,-73.852719,Subway Station,Queens
+594,QU,Limited Free,Time Warner Cable,40.730544,-73.776718,Outdoor TWC Aerial,Queens
+3597,QU,Free,Transit Wireless,40.700486,-73.807969,Subway Station,Queens
+3598,QU,Free,Transit Wireless,40.718331,-73.837324,Subway Station,Queens
+597,QU,Limited Free,Time Warner Cable,40.730124,-73.773857,Outdoor,Queens
+143,MN,Free,Chelsea,40.7425912548,-74.005064964,Outdoor,New York
+598,QU,Limited Free,Time Warner Cable,40.730124,-73.773857,Outdoor,Queens
+599,QU,Limited Free,Time Warner Cable,40.726811,-73.775861,Outdoor TWC Aerial,Queens
+600,QU,Limited Free,Time Warner Cable,40.729869,-73.773841,Outdoor,Queens
+601,QU,Limited Free,Time Warner Cable,40.730423,-73.777129,Outdoor TWC Aerial,Queens
+602,MN,Limited Free,Time Warner Cable,40.772005,-73.982384,Outdoor,New York
+603,BK,Limited Free,Time Warner Cable,40.61299,-74.012924,Outdoor,Brooklyn
+604,QU,Limited Free,Time Warner Cable,40.730822,-73.884479,Outdoor TWC Aerial,Queens
+605,QU,Limited Free,Time Warner Cable,40.730489,-73.8842,Outdoor TWC Aerial,Queens
+606,QU,Limited Free,Time Warner Cable,40.728838,-73.883751,Outdoor TWC Aerial,Queens
+607,MN,Limited Free,Time Warner Cable,40.771442,-73.988109,Outdoor,New York
+608,MN,Limited Free,Time Warner Cable,40.771442,-73.988109,Indoor,New York
+609,MN,Limited Free,Time Warner Cable,40.771442,-73.988109,Indoor,New York
+610,MN,Limited Free,Time Warner Cable,40.771442,-73.988109,Indoor,New York
+611,MN,Limited Free,Time Warner Cable,40.771442,-73.988109,Indoor,New York
+3599,QU,Free,Transit Wireless,40.714441,-73.831008,Subway Station,Queens
+3600,QU,Free,Transit Wireless,40.746644,-73.891338,Subway Station,Queens
+3601,MN,Free,Transit Wireless,40.799446,-73.968379,Subway Station,New York
+615,MN,Limited Free,Time Warner Cable,40.771442,-73.988109,Indoor,New York
+616,SI,Limited Free,Time Warner Cable,40.59205,-74.139087,Outdoor TWC Aerial,Staten Island
+617,SI,Limited Free,Time Warner Cable,40.591904,-74.138573,Outdoor TWC Aerial,Staten Island
+618,SI,Limited Free,Time Warner Cable,40.592023,-74.138056,Outdoor TWC Aerial,Staten Island
+3602,MN,Free,Transit Wireless,40.7906,-73.947478,Subway Station,New York
+620,SI,Limited Free,Time Warner Cable,40.591847,-74.139153,Indoor,Staten Island
+621,SI,Limited Free,Time Warner Cable,40.59203,-74.13812,Indoor,Staten Island
+622,MN,Limited Free,Time Warner Cable,40.71996,-73.981478,Indoor,New York
+623,MN,Limited Free,Time Warner Cable,40.720102,-73.981299,Outdoor,New York
+624,BK,Free,Downtown Brooklyn,40.689319,-73.987162,Outdoor,Brooklyn
+625,BK,Free,Downtown Brooklyn,40.689319,-73.987162,Outdoor,Brooklyn
+626,BK,Free,Downtown Brooklyn,40.689319,-73.987162,Outdoor,Brooklyn
+627,MN,Limited Free,Time Warner Cable,40.719789,-73.981466,Outdoor,New York
+628,MN,Limited Free,Time Warner Cable,40.720005,-73.981438,Indoor,New York
+629,MN,Limited Free,Time Warner Cable,40.812681,-73.939357,Indoor,New York
+630,MN,Limited Free,Time Warner Cable,40.812681,-73.939357,Indoor,New York
+631,MN,Limited Free,Time Warner Cable,40.812681,-73.939357,Outdoor,New York
+632,MN,Limited Free,Time Warner Cable,40.812681,-73.939357,Outdoor,New York
+633,MN,Limited Free,Time Warner Cable,40.812681,-73.939357,Indoor,New York
+634,MN,Limited Free,Time Warner Cable,40.812681,-73.939357,Indoor,New York
+635,MN,Limited Free,Time Warner Cable,40.812681,-73.939357,Indoor,New York
+636,MN,Limited Free,Time Warner Cable,40.812681,-73.939357,Indoor,New York
+637,QU,Limited Free,Time Warner Cable,40.733142,-73.870981,Outdoor TWC Aerial,Queens
+638,QU,Limited Free,Time Warner Cable,40.733186,-73.871128,Outdoor TWC Aerial,Queens
+639,QU,Limited Free,Time Warner Cable,40.742094,-73.961265,Outdoor,Queens
+640,QU,Limited Free,Time Warner Cable,40.741994,-73.961256,Outdoor,Queens
+641,MN,Limited Free,Time Warner Cable,40.846889,-73.941333,Outdoor,New York
+642,MN,Limited Free,Time Warner Cable,40.846472,-73.941722,Outdoor,New York
+3550,MN,Free,Transit Wireless,40.768247,-73.981929,Subway Station,New York
+3603,MN,Free,Transit Wireless,40.796092,-73.961454,Subway Station,New York
+643,MN,Limited Free,Time Warner Cable,40.8462,-73.941347,Outdoor,New York
+644,MN,Limited Free,Time Warner Cable,40.846444,-73.939981,Outdoor,New York
+645,MN,Limited Free,Time Warner Cable,40.846686,-73.940883,Indoor,New York
+646,MN,Free,AT&T,40.7931,-73.9354,Outdoor,New York
+647,QU,Free,AT&T,40.777,-73.9252,Outdoor,Queens
+648,QU,Free,AT&T,40.7221,-73.8466,Outdoor,Queens
+649,SI,Free,AT&T,40.6173,-74.1063,Outdoor,Staten Island
+650,MN,Limited Free,Time Warner Cable,40.846562,-73.94086,Indoor,New York
+651,MN,Limited Free,Time Warner Cable,40.846383,-73.940706,Indoor,New York
+652,MN,Limited Free,Time Warner Cable,40.824778,-73.942178,Outdoor,New York
+653,MN,Limited Free,Time Warner Cable,40.824131,-73.942464,Indoor,New York
+654,MN,Limited Free,Time Warner Cable,40.824131,-73.942464,Indoor,New York
+655,MN,Limited Free,Time Warner Cable,40.824131,-73.942464,Indoor,New York
+656,MN,Limited Free,Time Warner Cable,40.824131,-73.942464,Indoor,New York
+657,SI,Free,AT&T,40.589,-74.0667,Outdoor,Staten Island
+658,MN,Free,AT&T,40.7148,-74.0028,Outdoor,New York
+659,MN,Free,AT&T,40.7265,-73.9817,Outdoor,New York
+660,QU,Limited Free,AT&T,40.7432,-73.8443,Outdoor,Queens
+3604,MN,Free,Transit Wireless,40.79502,-73.94425,Subway Station,New York
+3605,MN,Free,Transit Wireless,40.802098,-73.949625,Subway Station,New York
+3606,MN,Free,Transit Wireless,40.798629,-73.941617,Subway Station,New York
+3607,MN,Free,Transit Wireless,40.805085,-73.954882,Subway Station,New York
+3608,MN,Free,Transit Wireless,40.807722,-73.96411,Subway Station,New York
+3609,MN,Free,Transit Wireless,40.807745,-73.945502,Subway Station,New York
+3610,MN,Free,Transit Wireless,40.804138,-73.937594,Subway Station,New York
+3611,MN,Free,Transit Wireless,40.811109,-73.952343,Subway Station,New York
+3612,MN,Free,Transit Wireless,40.814229,-73.94077,Subway Station,New York
+3613,MN,Free,Transit Wireless,40.817894,-73.947649,Subway Station,New York
+3614,MN,Free,Transit Wireless,40.822008,-73.953676,Subway Station,New York
+3615,MN,Free,Transit Wireless,40.826551,-73.95036,Subway Station,New York
+3616,MN,Free,Transit Wireless,40.820421,-73.936245,Subway Station,New York
+3617,MN,Free,Transit Wireless,40.824783,-73.944216,Subway Station,New York
+3618,MN,Free,Transit Wireless,40.830135,-73.938209,Subway Station,New York
+3619,MN,Free,Transit Wireless,40.830518,-73.941514,Subway Station,New York
+3620,MN,Free,Transit Wireless,40.834041,-73.94489,Subway Station,New York
+3621,MN,Free,Transit Wireless,40.710688,-74.011029,Subway Station,New York
+3622,MN,Free,Transit Wireless,40.836013,-73.939892,Subway Station,New York
+3623,MN,Free,Transit Wireless,40.847391,-73.939704,Subway Station,New York
+3624,MN,Free,Transit Wireless,40.851695,-73.937969,Subway Station,New York
+3625,MN,Free,Transit Wireless,40.859022,-73.93418,Subway Station,New York
+3626,MN,Free,Transit Wireless,40.855225,-73.929412,Subway Station,New York
+3627,MN,Free,Transit Wireless,40.768141,-73.96387,Subway Station,New York
+3628,MN,Free,Transit Wireless,40.77362,-73.959874,Subway Station,New York
+3629,MN,Free,Transit Wireless,40.785672,-73.95107,Subway Station,New York
+3630,BX,Free,Transit Wireless,40.807566,-73.91924,Subway Station,Bronx
+3631,MN,Free,Transit Wireless,40.803967,-73.966847,Subway Station,New York
+3632,MN,Free,Transit Wireless,40.800605,-73.958159,Subway Station,New York
+3633,MN,Free,Transit Wireless,40.799075,-73.951822,Subway Station,New York
+3634,BX,Free,Transit Wireless,40.805368,-73.914042,Subway Station,Bronx
+3635,MN,Free,Transit Wireless,40.718611,-73.988114,Subway Station,New York
+3636,MN,Free,Transit Wireless,40.718315,-73.987437,Subway Station,New York
+3637,MN,Free,Transit Wireless,40.865491,-73.927271,Subway Station,New York
+3638,BX,Free,Transit Wireless,40.808719,-73.907657,Subway Station,Bronx
+3639,BX,Free,Transit Wireless,40.812118,-73.904098,Subway Station,Bronx
+3640,MN,Free,Transit Wireless,40.713715,-73.990173,Subway Station,New York
+3641,QU,Free,Transit Wireless,40.7596,-73.83003,Subway Station,Queens
+3642,MN,Free,Transit Wireless,40.710374,-74.007582,Subway Station,New York
+3643,MN,Free,Transit Wireless,40.709416,-74.006571,Subway Station,New York
+3644,MN,Free,Transit Wireless,40.710368,-74.009509,Subway Station,New York
+3645,MN,Free,Transit Wireless,40.71417,-73.999153,Subway Station,New York
+3646,MN,Free,Transit Wireless,40.710197,-74.007691,Subway Station,New York
+3647,MN,Free,Transit Wireless,40.82388,-73.93647,Subway Station,New York
+3648,MN,Free,Transit Wireless,40.868072,-73.919899,Subway Station,New York
+3649,QU,Free,Transit Wireless,40.702566,-73.816859,Subway Station,Queens
+3650,BX,Free,Transit Wireless,40.816104,-73.896435,Subway Station,Bronx
+3651,MN,Free,Transit Wireless,40.723402,-73.989938,Subway Station,New York
+3652,BX,Free,Transit Wireless,40.874811,-73.878855,Subway Station,Bronx
+3653,BX,Free,Transit Wireless,40.873244,-73.887138,Subway Station,Bronx
+3654,BX,Free,Transit Wireless,40.866978,-73.893509,Subway Station,Bronx
+712,MN,Limited Free,Time Warner Cable,40.824131,-73.942464,Indoor,New York
+713,MN,Limited Free,Time Warner Cable,40.824131,-73.942464,Indoor,New York
+714,QU,Limited Free,Time Warner Cable,40.718812,-73.88536,Outdoor TWC Aerial,Queens
+715,QU,Limited Free,Time Warner Cable,40.720231,-73.877806,Outdoor,Queens
+716,QU,Limited Free,Time Warner Cable,40.720598,-73.877337,Outdoor,Queens
+717,QU,Limited Free,Time Warner Cable,40.721026,-73.877935,Outdoor,Queens
+718,QU,Limited Free,Time Warner Cable,40.71921,-73.885335,Outdoor TWC Aerial,Queens
+719,BK,Free,Downtown Brooklyn,40.689319,-73.987162,Outdoor,Brooklyn
+720,BK,Free,Downtown Brooklyn,40.694693,-73.983849,Outdoor,Brooklyn
+721,BK,Free,Downtown Brooklyn,40.694693,-73.983849,Outdoor,Brooklyn
+722,BK,Free,Downtown Brooklyn,40.693721,-73.983328,Outdoor,Brooklyn
+723,BK,Free,Downtown Brooklyn,40.693721,-73.983328,Outdoor,Brooklyn
+724,BK,Free,Downtown Brooklyn,40.69335,-73.985788,Outdoor,Brooklyn
+725,BK,Free,Downtown Brooklyn,40.69335,-73.985788,Outdoor,Brooklyn
+726,BK,Free,Downtown Brooklyn,40.69335,-73.985788,Outdoor,Brooklyn
+727,BK,Free,Downtown Brooklyn,40.686371,-73.978541,Outdoor,Brooklyn
+728,BK,Free,Downtown Brooklyn,40.686371,-73.978541,Outdoor,Brooklyn
+729,BK,Free,Downtown Brooklyn,40.692723,-73.983025,Outdoor,Brooklyn
+730,BK,Free,Downtown Brooklyn,40.692723,-73.983025,Outdoor,Brooklyn
+731,BK,Free,Downtown Brooklyn,40.690406,-73.983931,Outdoor,Brooklyn
+732,BK,Free,Downtown Brooklyn,40.690406,-73.983931,Outdoor,Brooklyn
+733,BK,Free,Downtown Brooklyn,40.692087,-73.982587,Outdoor,Brooklyn
+734,BK,Free,Downtown Brooklyn,40.692087,-73.982587,Outdoor,Brooklyn
+735,BK,Free,Downtown Brooklyn,40.69189,-73.982488,Outdoor,Brooklyn
+736,BK,Free,Downtown Brooklyn,40.69189,-73.982488,Outdoor,Brooklyn
+737,BK,Free,Downtown Brooklyn,40.693625,-73.988519,Outdoor,Brooklyn
+738,BK,Free,Downtown Brooklyn,40.693636,-73.988347,Outdoor,Brooklyn
+739,BK,Free,Downtown Brooklyn,40.693636,-73.988347,Outdoor,Brooklyn
+740,BK,Free,Downtown Brooklyn,40.693636,-73.988347,Outdoor,Brooklyn
+741,BK,Free,Downtown Brooklyn,40.693636,-73.988347,Outdoor,Brooklyn
+742,BK,Free,Downtown Brooklyn,40.693636,-73.988347,Outdoor,Brooklyn
+743,BK,Free,Downtown Brooklyn,40.693636,-73.988347,Outdoor,Brooklyn
+744,BK,Free,Downtown Brooklyn,40.693636,-73.988347,Outdoor,Brooklyn
+745,BK,Free,Downtown Brooklyn,40.69401,-73.986706,Outdoor,Brooklyn
+746,BK,Free,Downtown Brooklyn,40.69401,-73.986706,Outdoor,Brooklyn
+747,BK,Free,Downtown Brooklyn,40.69401,-73.986706,Outdoor,Brooklyn
+748,BK,Free,Downtown Brooklyn,40.69401,-73.986706,Outdoor,Brooklyn
+749,BK,Free,Downtown Brooklyn,40.69401,-73.986706,Outdoor,Brooklyn
+750,BK,Free,Downtown Brooklyn,40.689942,-73.982158,Outdoor,Brooklyn
+751,BK,Free,Downtown Brooklyn,40.689942,-73.982158,Outdoor,Brooklyn
+752,BK,Free,Downtown Brooklyn,40.691738,-73.988131,Outdoor,Brooklyn
+753,BK,Free,Downtown Brooklyn,40.691738,-73.988131,Outdoor,Brooklyn
+754,BK,Free,Downtown Brooklyn,40.693348,-73.987419,Outdoor,Brooklyn
+755,BK,Free,Downtown Brooklyn,40.692417,-73.987117,Outdoor,Brooklyn
+756,BK,Free,Downtown Brooklyn,40.692417,-73.987117,Outdoor,Brooklyn
+757,BK,Free,Downtown Brooklyn,40.692417,-73.987117,Outdoor,Brooklyn
+758,BK,Free,Downtown Brooklyn,40.692178,-73.988304,Outdoor,Brooklyn
+759,BK,Free,Downtown Brooklyn,40.692023,-73.988433,Outdoor,Brooklyn
+760,BK,Free,Downtown Brooklyn,40.691976,-73.988311,Outdoor,Brooklyn
+761,BK,Free,Downtown Brooklyn,40.692174,-73.988669,Outdoor,Brooklyn
+762,BK,Free,Downtown Brooklyn,40.692178,-73.988304,Outdoor,Brooklyn
+763,BK,Free,Downtown Brooklyn,40.690364,-73.984435,Outdoor,Brooklyn
+764,BK,Free,Downtown Brooklyn,40.690364,-73.984435,Outdoor,Brooklyn
+765,BK,Free,Downtown Brooklyn,40.689334,-73.981975,Outdoor,Brooklyn
+766,BK,Free,Downtown Brooklyn,40.689334,-73.981975,Outdoor,Brooklyn
+767,BK,Free,Downtown Brooklyn,40.691224,-73.98662,Outdoor,Brooklyn
+768,BK,Free,Downtown Brooklyn,40.691224,-73.98662,Outdoor,Brooklyn
+769,BK,Free,Downtown Brooklyn,40.689633,-73.983165,Outdoor,Brooklyn
+770,BK,Free,Downtown Brooklyn,40.689633,-73.983165,Outdoor,Brooklyn
+771,BK,Free,Downtown Brooklyn,40.689633,-73.983165,Outdoor,Brooklyn
+772,BK,Free,Downtown Brooklyn,40.689633,-73.983165,Outdoor,Brooklyn
+773,BK,Free,Downtown Brooklyn,40.689633,-73.983165,Outdoor,Brooklyn
+774,BK,Free,Downtown Brooklyn,40.692144,-73.986787,Outdoor,Brooklyn
+775,BK,Free,Downtown Brooklyn,40.692144,-73.986787,Outdoor,Brooklyn
+776,BK,Free,Downtown Brooklyn,40.689334,-73.981975,Outdoor,Brooklyn
+777,BK,Free,Downtown Brooklyn,40.689334,-73.981975,Outdoor,Brooklyn
+778,BK,Free,Downtown Brooklyn,40.685308,-73.974472,Outdoor,Brooklyn
+779,BK,Free,Downtown Brooklyn,40.685308,-73.974472,Outdoor,Brooklyn
+780,BK,Free,Downtown Brooklyn,40.688825,-73.982302,Outdoor,Brooklyn
+781,BK,Free,Downtown Brooklyn,40.688825,-73.982302,Outdoor,Brooklyn
+782,BK,Free,Downtown Brooklyn,40.693069,-73.990089,Outdoor,Brooklyn
+783,BK,Free,Downtown Brooklyn,40.693069,-73.990089,Outdoor,Brooklyn
+784,BK,Free,Downtown Brooklyn,40.693069,-73.990089,Outdoor,Brooklyn
+785,BK,Free,Downtown Brooklyn,40.693069,-73.990089,Outdoor,Brooklyn
+786,BK,Free,Downtown Brooklyn,40.696652,-73.986074,Outdoor,Brooklyn
+787,BK,Free,Downtown Brooklyn,40.696652,-73.986074,Outdoor,Brooklyn
+788,BK,Free,Downtown Brooklyn,40.696652,-73.986074,Outdoor,Brooklyn
+789,QU,Limited Free,Time Warner Cable,40.720508,-73.884938,Outdoor TWC Aerial,Queens
+790,QU,Limited Free,Time Warner Cable,40.718224,-73.882524,Outdoor TWC Aerial,Queens
+791,QU,Limited Free,Time Warner Cable,40.7197,-73.877119,Outdoor TWC Aerial,Queens
+792,QU,Limited Free,Time Warner Cable,40.685616,-73.852882,Outdoor TWC Aerial,Queens
+793,QU,Limited Free,Time Warner Cable,40.686245,-73.853854,Outdoor TWC Aerial,Queens
+794,QU,Limited Free,Time Warner Cable,40.687073,-73.853153,Outdoor TWC Aerial,Queens
+795,QU,Limited Free,Time Warner Cable,40.686889,-73.854035,Outdoor TWC Aerial,Queens
+796,QU,Limited Free,Time Warner Cable,40.731675,-73.865607,Indoor,Queens
+797,QU,Limited Free,Time Warner Cable,40.732253,-73.865623,Outdoor TWC Aerial,Queens
+798,QU,Limited Free,Time Warner Cable,40.732686,-73.865119,Outdoor TWC Aerial,Queens
+799,QU,Limited Free,Time Warner Cable,40.731675,-73.865607,Indoor,Queens
+800,QU,Limited Free,Time Warner Cable,40.731675,-73.865607,Indoor,Queens
+801,BK,Limited Free,Time Warner Cable,40.720079,-73.949511,Outdoor,Brooklyn
+802,BK,Limited Free,Time Warner Cable,40.720079,-73.949511,Outdoor,Brooklyn
+803,MN,Limited Free,Time Warner Cable,40.805013,-73.944909,Indoor,New York
+804,MN,Limited Free,Time Warner Cable,40.80501,-73.944885,Indoor,New York
+805,MN,Limited Free,Time Warner Cable,40.805013,-73.944909,Indoor,New York
+806,MN,Limited Free,Time Warner Cable,40.805013,-73.944909,Indoor,New York
+807,MN,Limited Free,Time Warner Cable,40.805013,-73.944909,Indoor,New York
+808,MN,Limited Free,Time Warner Cable,40.805013,-73.944909,Indoor,New York
+809,MN,Limited Free,Time Warner Cable,40.805013,-73.944909,Indoor,New York
+810,MN,Limited Free,Time Warner Cable,40.805013,-73.944909,Indoor,New York
+811,MN,Limited Free,Time Warner Cable,40.757418,-73.965084,Indoor,New York
+812,MN,Limited Free,Time Warner Cable,40.757418,-73.965084,Indoor,New York
+813,MN,Limited Free,Time Warner Cable,40.757418,-73.965084,Indoor,New York
+814,BK,Limited Free,Time Warner Cable,40.672583,-74.005544,Outdoor TWC Aerial,Brooklyn
+815,BK,Limited Free,Time Warner Cable,40.673349,-74.008235,Outdoor TWC Aerial,Brooklyn
+816,BK,Limited Free,Time Warner Cable,40.673031,-74.00485,Outdoor TWC Aerial,Brooklyn
+817,BK,Limited Free,Time Warner Cable,40.672969,-74.006915,Outdoor TWC Aerial,Brooklyn
+818,BK,Limited Free,Time Warner Cable,40.672214,-74.004145,Outdoor TWC Aerial,Brooklyn
+819,BK,Limited Free,Time Warner Cable,40.671167,-74.003688,Outdoor TWC Aerial,Brooklyn
+820,BK,Limited Free,Time Warner Cable,40.672356,-74.004046,Indoor,Brooklyn
+821,BK,Limited Free,Time Warner Cable,40.672413,-74.004303,Indoor,Brooklyn
+822,BK,Limited Free,Time Warner Cable,40.672289,-74.003744,Indoor,Brooklyn
+823,BK,Limited Free,Time Warner Cable,40.672515,-74.004648,Indoor,Brooklyn
+824,BK,Limited Free,Time Warner Cable,40.672413,-74.004303,Indoor,Brooklyn
+825,MN,Limited Free,Time Warner Cable,40.773542,-73.981774,Outdoor,New York
+826,QU,Limited Free,Time Warner Cable,40.586556,-73.799894,Outdoor,Queens
+827,QU,Limited Free,Time Warner Cable,40.586541,-73.799973,Outdoor,Queens
+828,QU,Limited Free,Time Warner Cable,40.584669,-73.811051,Outdoor,Queens
+829,QU,Limited Free,Time Warner Cable,40.584551,-73.811003,Outdoor,Queens
+830,QU,Limited Free,Time Warner Cable,40.584614,-73.810694,Outdoor,Queens
+831,QU,Limited Free,Time Warner Cable,40.584727,-73.810683,Outdoor,Queens
+832,QU,Limited Free,Time Warner Cable,40.584485,-73.811217,Outdoor,Queens
+833,QU,Limited Free,Time Warner Cable,40.58305,-73.817686,Outdoor,Queens
+834,QU,Limited Free,Time Warner Cable,40.582914,-73.817877,Outdoor,Queens
+835,QU,Limited Free,Time Warner Cable,40.582824,-73.817578,Outdoor,Queens
+836,QU,Limited Free,Time Warner Cable,40.582957,-73.817185,Outdoor,Queens
+837,QU,Limited Free,Time Warner Cable,40.583099,-73.816689,Outdoor,Queens
+838,QU,Limited Free,Time Warner Cable,40.580559,-73.826296,Outdoor,Queens
+839,QU,Limited Free,Time Warner Cable,40.580467,-73.826272,Outdoor,Queens
+840,QU,Limited Free,Time Warner Cable,40.580555,-73.825958,Outdoor,Queens
+841,QU,Limited Free,Time Warner Cable,40.580704,-73.825969,Outdoor,Queens
+144,MN,Free,Chelsea,40.7418393463,-74.0032571552,Outdoor,New York
+842,QU,Limited Free,Time Warner Cable,40.580352,-73.826621,Outdoor,Queens
+843,QU,Limited Free,Time Warner Cable,40.579986,-73.829855,Outdoor,Queens
+844,QU,Limited Free,Time Warner Cable,40.577846,-73.835761,Outdoor,Queens
+845,QU,Limited Free,Time Warner Cable,40.577878,-73.835788,Outdoor,Queens
+846,QU,Limited Free,Time Warner Cable,40.577898,-73.835601,Outdoor,Queens
+847,QU,Limited Free,Time Warner Cable,40.577871,-73.835664,Outdoor TWC Aerial,Queens
+848,QU,Limited Free,Time Warner Cable,40.596479,-73.744988,Outdoor TWC Aerial,Queens
+849,QU,Limited Free,Time Warner Cable,40.596374,-73.745389,Outdoor TWC Aerial,Queens
+850,QU,Limited Free,Time Warner Cable,40.596321,-73.745791,Outdoor TWC Aerial,Queens
+851,QU,Limited Free,Time Warner Cable,40.596197,-73.746262,Outdoor TWC Aerial,Queens
+852,QU,Limited Free,Time Warner Cable,40.595714,-73.747247,Outdoor TWC Aerial,Queens
+853,QU,Limited Free,Time Warner Cable,40.595592,-73.747612,Outdoor,Queens
+854,QU,Limited Free,Time Warner Cable,40.687262,-73.769814,Outdoor,Queens
+855,QU,Limited Free,Time Warner Cable,40.68716,-73.769815,Outdoor,Queens
+856,QU,Limited Free,Time Warner Cable,40.687191,-73.769559,Indoor,Queens
+857,QU,Limited Free,Time Warner Cable,40.687191,-73.769559,Indoor,Queens
+858,QU,Limited Free,Time Warner Cable,40.687191,-73.769559,Indoor,Queens
+859,QU,Limited Free,Time Warner Cable,40.687191,-73.769559,Indoor,Queens
+860,QU,Limited Free,Time Warner Cable,40.687191,-73.769559,Indoor,Queens
+861,QU,Limited Free,Time Warner Cable,40.687191,-73.769559,Indoor,Queens
+862,QU,Limited Free,Time Warner Cable,40.687191,-73.769559,Indoor,Queens
+863,QU,Limited Free,Time Warner Cable,40.687191,-73.769559,Indoor,Queens
+864,QU,Limited Free,Time Warner Cable,40.687191,-73.769559,Indoor,Queens
+865,QU,Limited Free,Time Warner Cable,40.687191,-73.769559,Indoor,Queens
+866,QU,Limited Free,Time Warner Cable,40.687191,-73.769559,Indoor,Queens
+867,QU,Limited Free,Time Warner Cable,40.687191,-73.769559,Indoor,Queens
+868,QU,Limited Free,Time Warner Cable,40.687191,-73.769559,Indoor,Queens
+869,QU,Limited Free,Time Warner Cable,40.687191,-73.769559,Indoor,Queens
+870,SI,Limited Free,Time Warner Cable,40.625382,-74.11457,Outdoor TWC Aerial,Staten Island
+871,SI,Limited Free,Time Warner Cable,40.625756,-74.114738,Outdoor TWC Aerial,Staten Island
+872,SI,Limited Free,Time Warner Cable,40.624698,-74.114211,Outdoor TWC Aerial,Staten Island
+873,SI,Limited Free,Time Warner Cable,40.644816,-74.100443,Outdoor TWC Aerial,Staten Island
+874,SI,Limited Free,Time Warner Cable,40.644885,-74.101038,Outdoor TWC Aerial,Staten Island
+875,SI,Limited Free,Time Warner Cable,40.645123,-74.101629,Outdoor TWC Aerial,Staten Island
+876,SI,Limited Free,Time Warner Cable,40.645317,-74.102285,Outdoor TWC Aerial,Staten Island
+877,SI,Limited Free,Time Warner Cable,40.645439,-74.10288,Outdoor TWC Aerial,Staten Island
+878,SI,Limited Free,Time Warner Cable,40.645453,-74.103398,Outdoor TWC Aerial,Staten Island
+879,SI,Limited Free,Time Warner Cable,40.641798,-74.101846,Outdoor,Staten Island
+880,SI,Limited Free,Time Warner Cable,40.641982,-74.101869,Outdoor,Staten Island
+881,SI,Limited Free,Time Warner Cable,40.64382,-74.102404,Outdoor,Staten Island
+882,SI,Limited Free,Time Warner Cable,40.641797,-74.102002,Outdoor,Staten Island
+883,SI,Limited Free,Time Warner Cable,40.641963,-74.102026,Outdoor,Staten Island
+884,SI,Limited Free,Time Warner Cable,40.643782,-74.102245,Outdoor,Staten Island
+885,SI,Limited Free,Time Warner Cable,40.642339,-74.102688,Outdoor,Staten Island
+886,SI,Limited Free,Time Warner Cable,40.643167,-74.102285,Indoor,Staten Island
+887,QU,Limited Free,Time Warner Cable,40.602349,-73.751402,Indoor,Queens
+888,QU,Limited Free,Time Warner Cable,40.602349,-73.751402,Indoor,Queens
+889,QU,Limited Free,Time Warner Cable,40.602349,-73.751402,Indoor,Queens
+890,QU,Limited Free,Time Warner Cable,40.602349,-73.751402,Indoor,Queens
+891,SI,Limited Free,Time Warner Cable,40.627089,-74.077292,Outdoor TWC Aerial,Staten Island
+892,SI,Limited Free,Time Warner Cable,40.62686,-74.075848,Outdoor TWC Aerial,Staten Island
+893,SI,Limited Free,Time Warner Cable,40.626579,-74.076173,Outdoor TWC Aerial,Staten Island
+894,MN,Limited Free,Time Warner Cable,40.793669,-73.936816,Indoor,New York
+895,MN,Limited Free,Time Warner Cable,40.793669,-73.936816,Indoor,New York
+896,MN,Limited Free,Time Warner Cable,40.793669,-73.936816,Indoor,New York
+145,MN,Free,Chelsea,40.7427538286,-74.0076720715,Outdoor,New York
+897,MN,Limited Free,Time Warner Cable,40.793669,-73.936816,Indoor,New York
+898,MN,Limited Free,Time Warner Cable,40.793669,-73.936816,Indoor,New York
+899,MN,Limited Free,Time Warner Cable,40.793669,-73.936816,Indoor,New York
+900,MN,Limited Free,Time Warner Cable,40.793305,-73.936759,Outdoor TWC Aerial,New York
+901,MN,Limited Free,Time Warner Cable,40.793748,-73.936242,Outdoor TWC Aerial,New York
+902,SI,Limited Free,Time Warner Cable,40.637317,-74.076763,Outdoor TWC Aerial,Staten Island
+903,MN,Limited Free,Time Warner Cable,40.729564,-74.005462,Outdoor,New York
+904,MN,Limited Free,Time Warner Cable,40.729564,-74.005462,Indoor,New York
+905,MN,Limited Free,Time Warner Cable,40.729564,-74.005462,Indoor,New York
+906,MN,Limited Free,Time Warner Cable,40.729564,-74.005462,Indoor,New York
+907,MN,Limited Free,Time Warner Cable,40.729564,-74.005462,Indoor,New York
+908,MN,Limited Free,Time Warner Cable,40.732142,-73.998629,Outdoor,New York
+909,MN,Limited Free,Time Warner Cable,40.731863,-73.997778,Outdoor,New York
+910,MN,Limited Free,Time Warner Cable,40.731351,-73.99684,Outdoor,New York
+911,MN,Limited Free,Time Warner Cable,40.730975,-73.996079,Outdoor,New York
+912,MN,Limited Free,Time Warner Cable,40.729856,-73.997476,Outdoor,New York
+913,MN,Limited Free,Time Warner Cable,40.730255,-73.997991,Outdoor,New York
+914,MN,Limited Free,Time Warner Cable,40.730394,-73.998476,Outdoor,New York
+915,MN,Limited Free,Time Warner Cable,40.731844,-73.999042,Outdoor,New York
+916,MN,Limited Free,Time Warner Cable,40.818499,-73.95969,Outdoor,New York
+917,MN,Limited Free,Time Warner Cable,40.82059,-73.95969,Outdoor,New York
+918,QU,Limited Free,Time Warner Cable,40.747454,-73.910588,Outdoor,Queens
+919,QU,Limited Free,Time Warner Cable,40.747518,-73.910576,Outdoor,Queens
+920,QU,Limited Free,Time Warner Cable,40.746238,-73.909415,Outdoor,Queens
+921,QU,Limited Free,Time Warner Cable,40.745691,-73.907408,Outdoor TWC Aerial,Queens
+922,QU,Limited Free,Time Warner Cable,40.746853,-73.90888,Outdoor TWC Aerial,Queens
+923,QU,Limited Free,Time Warner Cable,40.74745,-73.909532,Outdoor TWC Aerial,Queens
+924,SI,Limited Free,Time Warner Cable,40.519237,-74.188231,Outdoor,Staten Island
+925,SI,Limited Free,Time Warner Cable,40.518167,-74.189765,Outdoor,Staten Island
+926,SI,Limited Free,Time Warner Cable,40.517283,-74.190996,Outdoor,Staten Island
+927,SI,Limited Free,Time Warner Cable,40.517045,-74.190323,Outdoor,Staten Island
+928,SI,Limited Free,Time Warner Cable,40.517148,-74.189823,Outdoor,Staten Island
+929,QU,Limited Free,Time Warner Cable,40.694095,-73.821334,Outdoor TWC Aerial,Queens
+930,QU,Limited Free,Time Warner Cable,40.694165,-73.822368,Outdoor TWC Aerial,Queens
+931,QU,Limited Free,Time Warner Cable,40.695077,-73.822817,Outdoor TWC Aerial,Queens
+932,QU,Limited Free,Time Warner Cable,40.694624,-73.820593,Outdoor TWC Aerial,Queens
+933,QU,Limited Free,Time Warner Cable,40.695132,-73.820841,Outdoor TWC Aerial,Queens
+934,MN,Limited Free,Time Warner Cable,40.71025,-73.99798,Outdoor,New York
+935,MN,Limited Free,Time Warner Cable,40.71025,-73.99798,Indoor,New York
+936,QU,Limited Free,Time Warner Cable,40.70389,-73.785705,Outdoor TWC Aerial,Queens
+937,QU,Limited Free,Time Warner Cable,40.702982,-73.785122,Outdoor TWC Aerial,Queens
+938,QU,Limited Free,Time Warner Cable,40.702057,-73.784529,Outdoor TWC Aerial,Queens
+939,QU,Limited Free,Time Warner Cable,40.702707,-73.783594,Outdoor TWC Aerial,Queens
+940,QU,Limited Free,Time Warner Cable,40.703373,-73.783924,Outdoor TWC Aerial,Queens
+941,QU,Limited Free,Time Warner Cable,40.704265,-73.784562,Outdoor TWC Aerial,Queens
+942,BK,Limited Free,Cablevision,40.598257,-74.00014,Outdoor,Brooklyn
+943,BK,Limited Free,Cablevision,40.5977,-74.00027,Outdoor,Brooklyn
+944,BK,Limited Free,Cablevision,40.597585,-74.001112,Outdoor,Brooklyn
+945,BK,Limited Free,Cablevision,40.597176,-74.000282,Outdoor,Brooklyn
+946,BK,Limited Free,Cablevision,40.597154,-73.999685,Outdoor,Brooklyn
+947,BK,Limited Free,Cablevision,40.597161,-74.001359,Outdoor,Brooklyn
+948,BK,Limited Free,Cablevision,40.59815,-74.001135,Outdoor,Brooklyn
+949,BX,Limited Free,Cablevision,40.87301,-73.871349,Outdoor,Bronx
+950,BX,Limited Free,Cablevision,40.85398,-73.870472,Outdoor,Bronx
+951,BK,Limited Free,Cablevision,40.6571,-73.9027,Outdoor,Brooklyn
+952,BK,Limited Free,Cablevision,40.657028,-73.903152,Outdoor,Brooklyn
+1099,BX,Limited Free,Cablevision,40.864781,-73.894626,Outdoor,Bronx
+953,BK,Limited Free,Cablevision,40.657213,-73.901808,Outdoor,Brooklyn
+954,BK,Limited Free,Cablevision,40.6567,-73.9028,Indoor,Brooklyn
+955,BK,Limited Free,Cablevision,40.6564,-73.9027,Indoor,Brooklyn
+956,BK,Limited Free,Cablevision,40.6561,-73.9025,Indoor,Brooklyn
+957,BK,Limited Free,Cablevision,40.6562,-73.90257,Indoor,Brooklyn
+958,BK,Limited Free,Cablevision,40.6561,-73.90276,Indoor,Brooklyn
+959,BK,Limited Free,Cablevision,40.6521,-73.90286,Indoor,Brooklyn
+960,BK,Limited Free,Cablevision,40.6559,-73.90285,Indoor,Brooklyn
+961,BX,Limited Free,Cablevision,40.842327,-73.909734,Outdoor,Bronx
+962,BX,Limited Free,Cablevision,40.841708,-73.909631,Outdoor,Bronx
+963,BX,Limited Free,Cablevision,40.84112,-73.90548,Outdoor,Bronx
+964,BX,Limited Free,Cablevision,40.8416,-73.9071,Outdoor,Bronx
+965,BX,Limited Free,Cablevision,40.84122,-73.90678,Outdoor,Bronx
+966,BX,Limited Free,Cablevision,40.8377,-73.90848,Outdoor,Bronx
+967,BX,Limited Free,Cablevision,40.83814,-73.90834,Outdoor,Bronx
+968,BK,Limited Free,Cablevision,40.573739,-73.981894,Outdoor,Brooklyn
+969,BK,Limited Free,Cablevision,40.573218,-73.981827,Outdoor,Brooklyn
+970,BK,Limited Free,Cablevision,40.573218,-73.981826,Outdoor,Brooklyn
+971,BK,Limited Free,Cablevision,40.574278,-73.981996,Outdoor,Brooklyn
+972,BK,Limited Free,Cablevision,40.574582,-73.977901,Outdoor,Brooklyn
+973,BK,Limited Free,Cablevision,40.574915,-73.977867,Outdoor,Brooklyn
+974,BK,Limited Free,Cablevision,40.574062,-73.977982,Outdoor,Brooklyn
+975,BK,Limited Free,Cablevision,40.573491,-73.977863,Outdoor,Brooklyn
+976,BK,Limited Free,Cablevision,40.573527,-73.977563,Outdoor,Brooklyn
+977,BK,Limited Free,Cablevision,40.573551,-73.977366,Outdoor,Brooklyn
+978,BK,Limited Free,Cablevision,40.573551,-73.977366,Outdoor,Brooklyn
+979,BK,Limited Free,Cablevision,40.573439,-73.978297,Outdoor,Brooklyn
+980,BK,Limited Free,Cablevision,40.573432,-73.97851,Outdoor,Brooklyn
+981,BK,Limited Free,Cablevision,40.573381,-73.978872,Outdoor,Brooklyn
+141,MN,Free,Chelsea,40.7445703086,-74.0045885368,Outdoor,New York
+982,BK,Limited Free,Cablevision,40.573384,-73.978937,Outdoor,Brooklyn
+983,BK,Limited Free,Cablevision,40.573384,-73.978937,Outdoor,Brooklyn
+984,BK,Limited Free,Cablevision,40.573428,-73.979853,Outdoor,Brooklyn
+985,BK,Limited Free,Cablevision,40.57341,-73.980344,Outdoor,Brooklyn
+986,BK,Limited Free,Cablevision,40.573276,-73.979855,Outdoor,Brooklyn
+987,BK,Limited Free,Cablevision,40.573266,-73.980012,Outdoor,Brooklyn
+988,BK,Limited Free,Cablevision,40.573253,-73.980143,Outdoor,Brooklyn
+989,BK,Limited Free,Cablevision,40.573227,-73.980356,Outdoor,Brooklyn
+990,BK,Limited Free,Cablevision,40.572784,-73.985629,Outdoor,Brooklyn
+991,BK,Limited Free,Cablevision,40.572675,-73.985618,Outdoor,Brooklyn
+992,BK,Limited Free,Cablevision,40.572675,-73.985618,Outdoor,Brooklyn
+993,BK,Limited Free,Cablevision,40.572669,-73.985747,Outdoor,Brooklyn
+994,BK,Limited Free,Cablevision,40.572669,-73.985747,Outdoor,Brooklyn
+995,BK,Limited Free,Cablevision,40.572664,-73.986039,Outdoor,Brooklyn
+996,BX,Limited Free,Cablevision,40.83448,-73.897582,Outdoor,Bronx
+997,BX,Limited Free,Cablevision,40.834623,-73.898171,Outdoor,Bronx
+998,BX,Limited Free,Cablevision,40.835691,-73.900089,Outdoor,Bronx
+999,BX,Limited Free,Cablevision,40.83666,-73.894981,Outdoor,Bronx
+1000,BX,Limited Free,Cablevision,40.836972,-73.89377,Outdoor,Bronx
+1001,BX,Limited Free,Cablevision,40.837117,-73.89331,Outdoor,Bronx
+1002,BX,Limited Free,Cablevision,40.837184,-73.890395,Outdoor,Bronx
+1003,BX,Limited Free,Cablevision,40.837503,-73.894893,Outdoor,Bronx
+1004,BX,Limited Free,Cablevision,40.837539,-73.893658,Outdoor,Bronx
+1005,BX,Limited Free,Cablevision,40.837704,-73.890376,Outdoor,Bronx
+1006,BX,Limited Free,Cablevision,40.838058,-73.893478,Outdoor,Bronx
+1007,BX,Limited Free,Cablevision,40.838217,-73.893388,Outdoor,Bronx
+1008,BX,Limited Free,Cablevision,40.838988,-73.888714,Outdoor,Bronx
+1009,BX,Limited Free,Cablevision,40.838989,-73.888714,Outdoor,Bronx
+1010,BX,Limited Free,Cablevision,40.839709,-73.887464,Outdoor,Bronx
+1011,BX,Limited Free,Cablevision,40.83971,-73.887757,Outdoor,Bronx
+1012,BX,Limited Free,Cablevision,40.839892,-73.89537,Outdoor,Bronx
+1013,BX,Limited Free,Cablevision,40.840107,-73.895219,Outdoor,Bronx
+1014,BX,Limited Free,Cablevision,40.840526,-73.895168,Outdoor,Bronx
+1015,BX,Limited Free,Cablevision,40.840664,-73.898372,Outdoor,Bronx
+1016,BX,Limited Free,Cablevision,40.840706,-73.891398,Outdoor,Bronx
+1017,BX,Limited Free,Cablevision,40.84071,-73.896045,Outdoor,Bronx
+1018,BX,Limited Free,Cablevision,40.8412,-73.8919,Outdoor,Bronx
+1019,BX,Limited Free,Cablevision,40.841626,-73.892961,Outdoor,Bronx
+1020,BX,Limited Free,Cablevision,40.841693,-73.894399,Outdoor,Bronx
+1021,BX,Limited Free,Cablevision,40.84182,-73.894281,Outdoor,Bronx
+1022,BX,Limited Free,Cablevision,40.842046,-73.894094,Outdoor,Bronx
+1023,BX,Limited Free,Cablevision,40.881477,-73.897951,Outdoor,Bronx
+1024,BX,Limited Free,Cablevision,40.816436,-73.838292,Outdoor,Bronx
+1025,BX,Limited Free,Cablevision,40.821599,-73.826654,Outdoor,Bronx
+1026,BX,Limited Free,Cablevision,40.821068,-73.82621,Outdoor,Bronx
+1027,BX,Limited Free,Cablevision,40.820619,-73.825839,Outdoor,Bronx
+1028,BX,Limited Free,Cablevision,40.818063,-73.82387,Outdoor,Bronx
+1029,BX,Limited Free,Cablevision,40.817732,-73.82368,Outdoor,Bronx
+1030,BX,Limited Free,Cablevision,40.816357,-73.837449,Outdoor,Bronx
+1031,BX,Limited Free,Cablevision,40.815346,-73.837671,Outdoor,Bronx
+1032,BX,Limited Free,Cablevision,40.816412,-73.833998,Outdoor,Bronx
+1033,BX,Limited Free,Cablevision,40.818752,-73.82456,Outdoor,Bronx
+1034,BX,Limited Free,Cablevision,40.81469,-73.898502,Outdoor,Bronx
+1035,BK,Limited Free,Cablevision,40.623001,-73.984689,Outdoor,Brooklyn
+1036,BK,Limited Free,Cablevision,40.623315,-73.985265,Outdoor,Brooklyn
+1037,BK,Limited Free,Cablevision,40.623831,-73.983592,Outdoor,Brooklyn
+1038,BK,Limited Free,Cablevision,40.624244,-73.984404,Outdoor,Brooklyn
+1039,BK,Limited Free,Cablevision,40.623457,-73.982884,Outdoor,Brooklyn
+1040,BX,Limited Free,Cablevision,40.87455,-73.86554,Outdoor,Bronx
+1041,BX,Limited Free,Cablevision,40.874779,-73.865005,Outdoor,Bronx
+1042,BX,Limited Free,Cablevision,40.87322,-73.837825,Outdoor,Bronx
+1043,BX,Limited Free,Cablevision,40.872936,-73.838671,Outdoor,Bronx
+1044,BX,Limited Free,Cablevision,40.872676,-73.839478,Outdoor,Bronx
+1045,BX,Limited Free,Cablevision,40.87364,-73.840586,Outdoor,Bronx
+1046,BX,Limited Free,Cablevision,40.874777,-73.839181,Outdoor,Bronx
+1047,BK,Limited Free,Cablevision,40.694837,-73.918627,Outdoor,Brooklyn
+1048,BK,Limited Free,Cablevision,40.694769,-73.91851,Outdoor,Brooklyn
+1049,BK,Limited Free,Cablevision,40.68992,-73.94647,Indoor,Brooklyn
+1050,BX,Limited Free,Cablevision,40.824255,-73.89791,Outdoor,Bronx
+1051,BX,Limited Free,Cablevision,40.828468,-73.9227,Outdoor,Bronx
+1052,BX,Limited Free,Cablevision,40.828057,-73.923075,Outdoor,Bronx
+1053,BX,Limited Free,Cablevision,40.827831,-73.922677,Outdoor,Bronx
+1054,BX,Limited Free,Cablevision,40.827441,-73.923008,Outdoor,Bronx
+1055,BX,Limited Free,Cablevision,40.827563,-73.923631,Outdoor,Bronx
+1056,BK,Limited Free,Cablevision,40.702978,-73.924737,Outdoor,Bronx
+1057,BK,Limited Free,Cablevision,40.703308,-73.924087,Outdoor,Bronx
+1058,BK,Limited Free,Cablevision,40.603993,-73.930671,Indoor,Brooklyn
+1059,BK,Limited Free,Cablevision,40.604137,-73.93043,Indoor,Brooklyn
+1060,BK,Limited Free,Cablevision,40.604068,-73.93076,Indoor,Brooklyn
+1061,BK,Limited Free,Cablevision,40.605008,-73.930027,Outdoor,Brooklyn
+1062,BK,Limited Free,Cablevision,40.606029,-73.928466,Outdoor,Brooklyn
+1063,BK,Limited Free,Cablevision,40.604383,-73.931063,Outdoor,Brooklyn
+1064,BX,Limited Free,Cablevision,40.840657,-73.842668,Outdoor,Bronx
+1065,BX,Limited Free,Cablevision,40.840657,-73.842668,Outdoor,Bronx
+1066,BX,Limited Free,Cablevision,40.840672,-73.842602,Indoor,Bronx
+1067,BX,Limited Free,Cablevision,40.846052,-73.82495,Outdoor,Bronx
+1068,BX,Limited Free,Cablevision,40.894246,-73.896288,Outdoor,Bronx
+1069,BX,Limited Free,Cablevision,40.893739,-73.89622,Outdoor,Bronx
+1070,BX,Limited Free,Cablevision,40.844468,-73.88169,Outdoor,Bronx
+1071,BX,Limited Free,Cablevision,40.844141,-73.881968,Outdoor,Bronx
+1072,BX,Limited Free,Cablevision,40.876541,-73.87845,Indoor,Bronx
+1073,BX,Limited Free,Cablevision,40.876827,-73.878725,Indoor,Bronx
+1074,BX,Limited Free,Cablevision,40.876855,-73.878874,Indoor,Bronx
+1075,BX,Limited Free,Cablevision,40.876643,-73.878542,Indoor,Bronx
+1076,BX,Limited Free,Cablevision,40.878445,-73.87548,Outdoor,Bronx
+1077,BX,Limited Free,Cablevision,40.876788,-73.876273,Outdoor,Bronx
+1078,BX,Limited Free,Cablevision,40.877001,-73.879322,Outdoor,Bronx
+1079,BX,Limited Free,Cablevision,40.876099,-73.877384,Outdoor,Bronx
+1080,BX,Limited Free,Cablevision,40.8762,-73.878749,Outdoor,Bronx
+1081,BK,Limited Free,Cablevision,40.65831,-73.94406,Outdoor,Brooklyn
+1082,BK,Limited Free,Cablevision,40.65831,-73.94406,Outdoor,Brooklyn
+1083,BK,Limited Free,Cablevision,40.658,-73.94723,Outdoor,Brooklyn
+1084,BK,Limited Free,Cablevision,40.658,-73.94723,Outdoor,Brooklyn
+1085,BK,Limited Free,Cablevision,40.65743,-73.94716,Outdoor,Brooklyn
+1086,BK,Limited Free,Cablevision,40.65743,-73.94716,Outdoor,Brooklyn
+1087,BX,Limited Free,Cablevision,40.846314,-73.824472,Outdoor,Bronx
+1088,BX,Limited Free,Cablevision,40.846606,-73.823952,Outdoor,Bronx
+1089,BX,Limited Free,Cablevision,40.8471,-73.822992,Outdoor,Bronx
+1090,BX,Limited Free,Cablevision,40.847596,-73.82223,Outdoor,Bronx
+1091,BX,Limited Free,Cablevision,40.848159,-73.821071,Outdoor,Bronx
+1092,BX,Limited Free,Cablevision,40.848322,-73.82075,Outdoor,Bronx
+1093,BX,Limited Free,Cablevision,40.849233,-73.82105,Outdoor,Bronx
+1094,BX,Limited Free,Cablevision,40.849196,-73.821055,Outdoor,Bronx
+1095,BX,Limited Free,Cablevision,40.850208,-73.821752,Outdoor,Bronx
+1096,BX,Limited Free,Cablevision,40.850232,-73.821777,Outdoor,Bronx
+1097,BX,Limited Free,Cablevision,40.864437,-73.894553,Outdoor,Bronx
+1098,BX,Limited Free,Cablevision,40.864458,-73.895115,Outdoor,Bronx
+1100,BX,Limited Free,Cablevision,40.865167,-73.894227,Outdoor,Bronx
+1101,BK,Limited Free,Cablevision,40.650721,-73.968489,Outdoor,Brooklyn
+1102,BK,Limited Free,Cablevision,40.65068,-73.96846,Outdoor,Brooklyn
+1103,BK,Limited Free,Cablevision,40.650738,-73.968429,Outdoor,Brooklyn
+1104,BK,Limited Free,Cablevision,40.6507,-73.965843,Outdoor,Brooklyn
+1105,BK,Limited Free,Cablevision,40.660469,-73.965168,Outdoor,Brooklyn
+1106,BK,Limited Free,Cablevision,40.660842,-73.965121,Outdoor,Brooklyn
+1107,BK,Limited Free,Cablevision,40.661197,-73.965252,Outdoor,Brooklyn
+1108,BK,Limited Free,Cablevision,40.657452,-73.963991,Outdoor,Brooklyn
+1109,BK,Limited Free,Cablevision,40.657452,-73.963991,Outdoor,Brooklyn
+1110,BK,Limited Free,Cablevision,40.657452,-73.963991,Outdoor,Brooklyn
+1111,BK,Limited Free,Cablevision,40.657001,-73.963697,Indoor,Brooklyn
+1112,BK,Limited Free,Cablevision,40.657001,-73.963697,Indoor,Brooklyn
+1113,BK,Limited Free,Cablevision,40.657001,-73.963697,Indoor,Brooklyn
+1114,BK,Limited Free,Cablevision,40.657001,-73.963697,Indoor,Brooklyn
+1115,BX,Limited Free,Cablevision,40.84459,-73.8598,Indoor,Bronx
+1116,BX,Limited Free,Cablevision,40.84459,-73.8598,Outdoor,Bronx
+1117,BK,Limited Free,Cablevision,40.685043,-73.918933,Outdoor,Bronx
+1118,BK,Limited Free,Cablevision,40.685032,-73.91907,Outdoor,Bronx
+1119,BX,Limited Free,Cablevision,40.887637,-73.835951,Outdoor,Bronx
+1120,BX,Limited Free,Cablevision,40.888783,-73.840133,Outdoor,Bronx
+1121,BX,Limited Free,Cablevision,40.885284,-73.838521,Outdoor,Bronx
+1122,BX,Limited Free,Cablevision,40.886622,-73.83497,Outdoor,Bronx
+1123,BX,Limited Free,Cablevision,40.86473,-73.899037,Outdoor,Bronx
+1124,BX,Limited Free,Cablevision,40.86473,-73.899037,Indoor,Bronx
+1125,BX,Limited Free,Cablevision,40.86473,-73.899037,Indoor,Bronx
+1126,BK,Limited Free,Cablevision,40.674013,-73.934698,Outdoor,Brooklyn
+1127,BK,Limited Free,Cablevision,40.67404,-73.935053,Outdoor,Brooklyn
+1128,BK,Limited Free,Cablevision,40.673801,-73.935166,Outdoor,Brooklyn
+1129,BK,Limited Free,Cablevision,40.67343,-73.93463,Outdoor,Brooklyn
+1130,BK,Limited Free,Cablevision,40.673866,-73.934717,Outdoor,Brooklyn
+1131,BK,Limited Free,Cablevision,40.673805,-73.934785,Indoor,Brooklyn
+1132,BK,Limited Free,Cablevision,40.673781,-73.935109,Indoor,Brooklyn
+1133,BK,Limited Free,Cablevision,40.673755,-73.935014,Indoor,Brooklyn
+1134,BK,Limited Free,Cablevision,40.673752,-73.934892,Indoor,Brooklyn
+1135,BK,Limited Free,Cablevision,40.673727,-73.934867,Indoor,Brooklyn
+1136,BK,Limited Free,Cablevision,40.673695,-73.934935,Indoor,Brooklyn
+1137,BX,Limited Free,Cablevision,40.811544,-73.914138,Indoor,Bronx
+1138,BX,Limited Free,Cablevision,40.811544,-73.914138,Indoor,Bronx
+1139,BX,Limited Free,Cablevision,40.811544,-73.914138,Indoor,Bronx
+1140,BX,Limited Free,Cablevision,40.811544,-73.914138,Indoor,Bronx
+1141,BX,Limited Free,Cablevision,40.811544,-73.914138,Indoor,Bronx
+1142,BX,Limited Free,Cablevision,40.811544,-73.914138,Outdoor,Bronx
+1143,BX,Limited Free,Cablevision,40.811544,-73.914138,Outdoor,Bronx
+1144,BK,Limited Free,Cablevision,40.576111,-73.984734,Outdoor,Brooklyn
+1145,BK,Limited Free,Cablevision,40.57585,-73.9835,Outdoor,Brooklyn
+1146,BK,Limited Free,Cablevision,40.57564,-73.98567,Outdoor,Brooklyn
+1,BX,Free,AT&T,40.8177,-73.8811,Outdoor,Bronx
+7,QU,Limited Free,Time Warner Cable,40.678334,-73.783477,Outdoor TWC Aerial,Queens
+8,QU,Limited Free,Time Warner Cable,40.6676,-73.78942,Outdoor TWC Aerial,Queens
+9,QU,Limited Free,Time Warner Cable,40.68161,-73.78825,Outdoor TWC Aerial,Queens
+10,QU,Limited Free,Time Warner Cable,40.68053,-73.78747,Outdoor TWC Aerial,Queens
+11,QU,Limited Free,Time Warner Cable,40.67963,-73.78745,Outdoor TWC Aerial,Queens
+12,QU,Limited Free,Time Warner Cable,40.68301,-73.78482,Outdoor TWC Aerial,Queens
+13,BX,Free,AT&T,40.8631,-73.9065,Outdoor,Bronx
+14,BX,Free,AT&T,40.8285,-73.9227,Outdoor,Bronx
+15,QU,Limited Free,Time Warner Cable,40.68462,-73.78589,Outdoor TWC Aerial,Queens
+16,QU,Limited Free,Time Warner Cable,40.68495,-73.78722,Outdoor TWC Aerial,Queens
+17,QU,Limited Free,Time Warner Cable,40.67814,-73.78711,Outdoor TWC Aerial,Queens
+18,QU,Limited Free,Time Warner Cable,40.67662,-73.78695,Outdoor TWC Aerial,Queens
+19,QU,Limited Free,Time Warner Cable,40.67934,-73.78444,Outdoor TWC Aerial,Queens
+20,QU,Limited Free,Time Warner Cable,40.68079,-73.78468,Outdoor TWC Aerial,Queens
+21,QU,Limited Free,Time Warner Cable,40.67268,-73.78678,Outdoor TWC Aerial,Queens
+22,QU,Limited Free,Time Warner Cable,40.67318,-73.78517,Outdoor TWC Aerial,Queens
+23,QU,Limited Free,Time Warner Cable,40.67609,-73.78254,Outdoor TWC Aerial,Queens
+24,QU,Limited Free,Time Warner Cable,40.67486,-73.78412,Outdoor TWC Aerial,Queens
+25,BK,Free,AT&T,40.7015,-73.9943,Outdoor,Brooklyn
+26,QU,Limited Free,Time Warner Cable,40.67506,-73.78744,Outdoor TWC Aerial,Queens
+27,QU,Limited Free,Time Warner Cable,40.67454,-73.78955,Outdoor TWC Aerial,Queens
+28,QU,Limited Free,Time Warner Cable,40.6714,-73.78861,Outdoor TWC Aerial,Queens
+29,QU,Limited Free,Time Warner Cable,40.66978,-73.78896,Outdoor TWC Aerial,Queens
+30,QU,Limited Free,Time Warner Cable,40.771229,-73.80905,Outdoor TWC Aerial,Queens
+31,QU,Limited Free,Time Warner Cable,40.769751,-73.808748,Outdoor TWC Aerial,Queens
+32,QU,Limited Free,Time Warner Cable,40.769652,-73.807508,Outdoor TWC Aerial,Queens
+33,QU,Limited Free,Time Warner Cable,40.769536,-73.805968,Outdoor TWC Aerial,Queens
+34,QU,Limited Free,Time Warner Cable,40.770532,-73.805507,Outdoor TWC Aerial,Queens
+35,MN,Limited Free,Time Warner Cable,40.754447,-73.984222,Outdoor,New York
+36,BK,Free,AT&T,40.6943,-73.9988,Outdoor,Brooklyn
+37,MN,Limited Free,Time Warner Cable,40.754317,-73.983094,Outdoor,New York
+38,MN,Limited Free,Time Warner Cable,40.753164,-73.983964,Outdoor,New York
+39,MN,Limited Free,Time Warner Cable,40.753689,-73.984769,Outdoor,New York
+40,MN,Limited Free,Time Warner Cable,40.752776,-73.98164,Outdoor,New York
+41,BK,Limited Free,Time Warner Cable,40.68063,-73.995382,Outdoor TWC Aerial,Brooklyn
+42,BK,Limited Free,Time Warner Cable,40.68063,-73.995382,Outdoor TWC Aerial,Brooklyn
+43,QU,Limited Free,Time Warner Cable,40.75141,-73.82472,Outdoor TWC Aerial,Queens
+44,QU,Limited Free,Time Warner Cable,40.75014,-73.82284,Outdoor TWC Aerial,Queens
+45,QU,Limited Free,Time Warner Cable,40.7437,-73.81732,Outdoor TWC Aerial,Queens
+46,QU,Limited Free,Time Warner Cable,40.74366,-73.81396,Outdoor TWC Aerial,Queens
+47,MN,Partner Site,Partner,40.7359999997,-73.9903999999,Outdoor,New York
+48,MN,Partner Site,Partner,40.7537999998,-73.9833000001,Outdoor,New York
+49,BK,Free,AT&T,40.693,-74.0019,Outdoor,Brooklyn
+50,QU,Limited Free,Time Warner Cable,40.74549,-73.81357,Outdoor TWC Aerial,Queens
+51,QU,Limited Free,Time Warner Cable,40.74243,-73.81151,Outdoor TWC Aerial,Queens
+52,QU,Limited Free,Time Warner Cable,40.74849,-73.82121,Outdoor TWC Aerial,Queens
+53,QU,Limited Free,Time Warner Cable,40.74381,-73.80419,Outdoor TWC Aerial,Queens
+54,QU,Limited Free,Time Warner Cable,40.74191,-73.80816,Outdoor TWC Aerial,Queens
+55,QU,Limited Free,Time Warner Cable,40.74589,-73.80342,Outdoor TWC Aerial,Queens
+56,QU,Limited Free,Time Warner Cable,40.74726,-73.80286,Outdoor TWC Aerial,Queens
+57,QU,Limited Free,Time Warner Cable,40.74914,-73.8027,Outdoor TWC Aerial,Queens
+58,QU,Limited Free,Time Warner Cable,40.75,-73.80506,Outdoor TWC Aerial,Queens
+59,QU,Limited Free,Time Warner Cable,40.75017,-73.80719,Outdoor TWC Aerial,Queens
+60,QU,Limited Free,Time Warner Cable,40.74761,-73.8117,Outdoor TWC Aerial,Queens
+61,BK,Free,AT&T,40.6915,-73.9755,Outdoor,Brooklyn
+62,BK,Free,AT&T,40.6898,-73.9462,Outdoor,Brooklyn
+63,QU,Limited Free,Time Warner Cable,40.74756,-73.81815,Outdoor TWC Aerial,Queens
+64,MN,Limited Free,Time Warner Cable,40.742378,-73.988692,Outdoor,New York
+65,MN,Limited Free,Time Warner Cable,40.7431,-73.9883,Outdoor,New York
+66,MN,Limited Free,Time Warner Cable,40.7411,-73.987914,Outdoor,New York
+67,MN,Limited Free,Time Warner Cable,40.741875,-73.987364,Outdoor,New York
+68,MN,Limited Free,Time Warner Cable,40.742492,-73.986906,Outdoor,New York
+69,MN,Limited Free,Time Warner Cable,40.74148,-73.98894,Outdoor,New York
+70,BK,Limited Free,Time Warner Cable,40.663256,-73.976164,Outdoor TWC Aerial,Brooklyn
+71,BK,Limited Free,Time Warner Cable,40.663019,-73.976292,Outdoor TWC Aerial,Brooklyn
+72,BK,Free,AT&T,40.7201,-73.9502,Outdoor,Brooklyn
+73,BK,Free,AT&T,40.6509,-73.9683,Outdoor,Brooklyn
+74,MN,Free,AT&T,40.7729,-73.974,Outdoor,New York
+75,MN,Free,AT&T,40.771,-73.9709,Outdoor,New York
+76,MN,Free,AT&T,40.7721,-73.9771,Outdoor,New York
+77,MN,Free,AT&T,40.768,-73.9712,Outdoor,New York
+78,BK,Limited Free,Time Warner Cable,40.663094,-73.976292,Outdoor TWC Aerial,Brooklyn
+79,BK,Limited Free,Time Warner Cable,40.663381,-73.976083,Outdoor TWC Aerial,Brooklyn
+80,QN,Limited Free,Time Warner Cable,40.675979,-73.765364,Outdoor TWC Aerial,Queens
+81,QN,Limited Free,Time Warner Cable,40.679472,-73.770693,Outdoor TWC Aerial,Queens
+82,QN,Limited Free,Time Warner Cable,40.679963,-73.767752,Outdoor TWC Aerial,Queens
+83,MN,Limited Free,Time Warner Cable,40.785958,-73.985075,Outdoor,New York
+84,MN,Limited Free,Time Warner Cable,40.71025,-73.99798,Outdoor,New York
+85,MN,Free,AT&T,40.8292,-73.9361,Outdoor,New York
+86,MN,Free,AT&T,40.8048,-73.9443,Outdoor,New York
+87,MN,Limited Free,Time Warner Cable,40.71025,-73.99798,Indoor,New York
+88,MN,Limited Free,Time Warner Cable,40.71025,-73.99798,Indoor,New York
+89,MN,Limited Free,Time Warner Cable,40.71025,-73.99798,Indoor,New York
+90,MN,Limited Free,Time Warner Cable,40.71025,-73.99798,Indoor,New York
+91,MN,Limited Free,Time Warner Cable,40.71025,-73.99798,Indoor,New York
+92,QU,Limited Free,Time Warner Cable,40.739154,-73.737718,Outdoor,Queens
+93,QU,Limited Free,Time Warner Cable,40.739353,-73.736825,Outdoor,Queens
+94,QU,Limited Free,Time Warner Cable,40.739547,-73.73592,Outdoor,Queens
+95,QU,Limited Free,Time Warner Cable,40.739739,-73.735041,Outdoor,Queens
+96,QU,Limited Free,Time Warner Cable,40.739909,-73.73458,Outdoor,Queens
+97,MN,Free,AT&T,40.7016,-74.0149,Outdoor,New York
+98,MN,Free,AT&T,40.703,-74.0168,Outdoor,New York
+99,QU,Limited Free,Time Warner Cable,40.740214,-73.734311,Outdoor,Queens
+100,QU,Limited Free,Time Warner Cable,40.75797,-73.825241,Outdoor TWC Aerial,Queens
+101,QU,Limited Free,Time Warner Cable,40.75858,-73.825078,Outdoor TWC Aerial,Queens
+102,BK,Limited Free,Time Warner Cable,40.696675,-73.997656,Outdoor,Brooklyn
+103,BK,Limited Free,Time Warner Cable,40.696989,-73.997486,Outdoor,Brooklyn
+104,BK,Limited Free,Time Warner Cable,40.697344,-73.997333,Outdoor,Brooklyn
+105,BK,Limited Free,Time Warner Cable,40.697669,-73.997183,Outdoor,Brooklyn
+106,BK,Limited Free,Time Warner Cable,40.698103,-73.996944,Outdoor,Brooklyn
+107,BK,Limited Free,Time Warner Cable,40.696732,-73.990349,Outdoor,Brooklyn
+108,MN,Limited Free,Time Warner Cable,40.749908,-74.00089,Outdoor,New York
+109,MN,Free,NYPL,40.7154881544,-74.0162138359,Library,New York
+142,MN,Free,Chelsea,40.7431927759,-74.0073877576,Outdoor,New York
+110,BK,Free,BPL,40.605690343,-73.9862316255,Library,Brooklyn
+111,BK,Free,BPL,40.6230645344,-73.9894467672,Library,Brooklyn
+112,MN,Limited Free,Time Warner Cable,40.749783,-74.000711,Outdoor,New York
+113,MN,Limited Free,Time Warner Cable,40.74827,-74.002068,Indoor,New York
+114,MN,Limited Free,Time Warner Cable,40.74827,-74.002068,Indoor,New York
+115,MN,Limited Free,Time Warner Cable,40.74827,-74.002068,Indoor,New York
+116,MN,Limited Free,Time Warner Cable,40.74827,-74.002068,Indoor,New York
+117,MN,Limited Free,Time Warner Cable,40.74827,-74.002068,Indoor,New York
+118,MN,Limited Free,Time Warner Cable,40.712307,-74.006961,Outdoor,New York
+119,MN,Limited Free,Time Warner Cable,40.70935,-74.009903,Outdoor,New York
+120,SI,Limited Free,Time Warner Cable,40.618064,-74.108186,Outdoor,Staten Island
+121,QU,Free,QPL,40.7078731318,-73.7946780399,Library,Jamaica
+122,QU,Free,QPL,40.7129435708,-73.8808642734,Library,Middle Village
+123,QU,Free,QPL,40.7429309465,-73.8251699639,Library,Flushing
+124,MN,Free,NYPL,40.8030181614,-73.9348475633,Library,New York
+125,BK,Free,BPL,40.6723435263,-73.9682243829,Library,Brooklyn
+126,BK,Free,BPL,40.645912124,-74.0136300012,Library,Brooklyn
+127,MN,Free,NYPL,40.7942156129,-73.9434510796,Library,New York
+128,BK,Free,BPL,40.6873790941,-73.966030666,Library,Brooklyn
+129,MN,Free,Manhattan Down Alliance,40.7071990996,-74.0037002996,Outdoor,New York
+130,MN,Free,Manhattan Down Alliance,40.7070998997,-74.0036011004,Outdoor,New York
+131,MN,Free,Manhattan Down Alliance,40.7070006997,-74.0035019003,Outdoor,New York
+132,MN,Free,Manhattan Down Alliance,40.7066001999,-74.0031966998,Outdoor,New York
+133,MN,Free,Manhattan Down Alliance,40.7051010003,-74.0026015994,Outdoor,New York
+134,MN,Free,Manhattan Down Alliance,40.7047997001,-74.0022963999,Outdoor,New York
+135,MN,Free,Manhattan Down Alliance,40.7070998998,-74.0049973006,Outdoor,New York
+136,MN,Free,Manhattan Down Alliance,40.7065010001,-74.0045012998,Outdoor,New York
+137,MN,Free,Manhattan Down Alliance,40.7062988002,-74.0061035001,Outdoor,New York
+138,MN,Free,Manhattan Down Alliance,40.7048987998,-74.0093001995,Outdoor,New York
+139,MN,Free,Manhattan Down Alliance,40.7047004998,-74.0089035001,Outdoor,New York
+140,MN,Free,Manhattan Down Alliance,40.7047004998,-74.0083008003,Outdoor,New York
+146,MN,Free,Chelsea,40.7394860202,-74.0062665941,Outdoor,New York
+147,MN,Free,Chelsea,40.7444079933,-74.0066367391,Outdoor,New York
+148,MN,Free,Chelsea,40.7426075127,-74.0042603013,Outdoor,New York
+149,MN,Free,AT&T,40.7474,-74.0051,Outdoor,New York
+150,MN,Free,Chelsea,40.7424774535,-74.0029621124,Outdoor,New York
+151,MN,Free,Chelsea,40.7422986209,-74.0007090572,Outdoor,New York
+152,MN,Free,Chelsea,40.7436967487,-74.007017612,Outdoor,New York
+153,MN,Free,Chelsea,40.7415548385,-74.0011113879,Outdoor,New York
+154,MN,Free,Chelsea,40.741900312,-74.0018570427,Outdoor,New York
+155,MN,Free,Chelsea,40.7439893758,-74.003412724,Outdoor,New York
+156,MN,Free,Chelsea,40.7409980115,-74.0054512019,Outdoor,New York
+157,MN,Free,Chelsea,40.7441275609,-74.0050435071,Outdoor,New York
+158,MN,Free,Chelsea,40.7402582786,-74.006003738,Outdoor,New York
+159,MN,Free,Chelsea,40.7434061518,-74.0052151686,Outdoor,New York
+160,MN,Free,Chelsea,40.7427700859,-74.0017175673,Outdoor,New York
+161,MN,Free,Chelsea,40.7409492377,-74.0034019945,Outdoor,New York
+162,MN,Free,Chelsea,40.7432415473,-74.0068030355,Outdoor,New York
+163,MN,Free,Chelsea,40.7434366339,-74.0036487581,Outdoor,New York
+164,MN,Free,Chelsea,40.7402745363,-74.0019750591,Outdoor,New York
+165,SI,Limited Free,Time Warner Cable,40.61775,-74.108185,Indoor,Staten Island
+166,SI,Limited Free,Time Warner Cable,40.61775,-74.108185,Indoor,Staten Island
+167,MN,Free,Chelsea,40.7418463958,-74.0040446358,Outdoor,New York
+168,MN,Free,Chelsea,40.7433065761,-74.0080261233,Outdoor,New York
+169,BK,Limited Free,Time Warner Cable,40.720079,-73.949511,Outdoor,Brooklyn
+170,BK,Limited Free,Time Warner Cable,40.720079,-73.949511,Outdoor,Brooklyn
+171,BK,Limited Free,Time Warner Cable,40.720079,-73.949511,Outdoor,Brooklyn
+172,BK,Limited Free,Time Warner Cable,40.625004,-74.017875,Outdoor TWC Aerial,Brooklyn
+173,BK,Limited Free,Time Warner Cable,40.625313,-74.017344,Outdoor TWC Aerial,Brooklyn
+174,BK,Limited Free,Time Warner Cable,40.62588,-74.016509,Outdoor TWC Aerial,Brooklyn
+175,BK,Limited Free,Time Warner Cable,40.62638,-74.01579,Outdoor TWC Aerial,Brooklyn
+176,BK,Limited Free,Time Warner Cable,40.626553,-74.016787,Outdoor TWC Aerial,Brooklyn
+177,BK,Limited Free,Time Warner Cable,40.715088,-73.960502,Indoor,Brooklyn
+178,BK,Limited Free,Time Warner Cable,40.715088,-73.960502,Indoor,Brooklyn
+236,MN,Free,Chelsea,40.7421021446,-74.0042110753,Outdoor,New York
+179,SI,Limited Free,Time Warner Cable,40.568366,-74.090642,Outdoor,Staten Island
+180,SI,Limited Free,Time Warner Cable,40.569365,-74.08949,Outdoor,Staten Island
+181,SI,Limited Free,Time Warner Cable,40.570195,-74.088547,Outdoor,Staten Island
+182,SI,Limited Free,Time Warner Cable,40.571268,-74.087293,Outdoor,Staten Island
+183,SI,Limited Free,Time Warner Cable,40.572313,-74.086013,Outdoor,Staten Island
+184,SI,Limited Free,Time Warner Cable,40.573338,-74.084406,Outdoor,Staten Island
+185,SI,Limited Free,Time Warner Cable,40.575083,-74.081683,Outdoor,Staten Island
+186,SI,Limited Free,Time Warner Cable,40.575748,-74.080677,Outdoor,Staten Island
+187,SI,Limited Free,Time Warner Cable,40.576236,-74.079987,Outdoor,Staten Island
+188,SI,Limited Free,Time Warner Cable,40.576483,-74.079624,Outdoor,Staten Island
+189,SI,Limited Free,Time Warner Cable,40.577222,-74.078581,Outdoor,Staten Island
+190,SI,Limited Free,Time Warner Cable,40.577772,-74.077993,Outdoor,Staten Island
+191,SI,Limited Free,Time Warner Cable,40.578631,-74.076801,Outdoor,Staten Island
+192,SI,Limited Free,Time Warner Cable,40.579581,-74.076359,Outdoor,Staten Island
+193,SI,Limited Free,Time Warner Cable,40.579986,-74.075899,Outdoor,Staten Island
+194,QU,Limited Free,Time Warner Cable,40.710818,-73.835528,Indoor,Queens
+195,QU,Limited Free,Time Warner Cable,40.709773,-73.835599,Outdoor,Queens
+196,QU,Limited Free,Time Warner Cable,40.710688,-73.835515,Outdoor,Queens
+197,BK,Limited Free,Time Warner Cable,40.639278,-74.032091,Outdoor,Brooklyn
+198,BK,Limited Free,Time Warner Cable,40.639231,-74.031933,Outdoor,Brooklyn
+199,BK,Limited Free,Time Warner Cable,40.639292,-74.031896,Outdoor,Brooklyn
+200,BK,Limited Free,Cablevision,40.658662,-73.88777,Outdoor,Bronx
+201,BK,Limited Free,Cablevision,40.658148,-73.88744,Outdoor,Bronx
+202,BK,Limited Free,Cablevision,40.658385,-73.887583,Outdoor,Brooklyn
+203,BX,Limited Free,Cablevision,40.825696,-73.927311,Outdoor,Bronx
+204,BX,Limited Free,Cablevision,40.825815,-73.927731,Outdoor,Bronx
+205,BX,Limited Free,Cablevision,40.825947,-73.928134,Outdoor,Bronx
+206,BX,Limited Free,Cablevision,40.826103,-73.928537,Outdoor,Bronx
+207,BX,Limited Free,Cablevision,40.826378,-73.929249,Outdoor,Bronx
+208,BX,Limited Free,Cablevision,40.826567,-73.926762,Outdoor,Bronx
+209,BX,Limited Free,Cablevision,40.82707,-73.926461,Outdoor,Bronx
+210,BX,Limited Free,Cablevision,40.827868,-73.926903,Outdoor,Bronx
+211,BX,Limited Free,Cablevision,40.828149,-73.927457,Outdoor,Bronx
+212,BX,Limited Free,Cablevision,40.827902,-73.928356,Outdoor,Bronx
+213,BX,Limited Free,Cablevision,40.827799,-73.928565,Outdoor,Bronx
+214,BX,Limited Free,Cablevision,40.827552,-73.929158,Outdoor,Bronx
+215,BK,Limited Free,Cablevision,40.57776,-73.94556,Outdoor,Brooklyn
+216,BK,Limited Free,Cablevision,40.57798,-73.94355,Outdoor,Brooklyn
+217,BK,Limited Free,Cablevision,40.57696,-73.94359,Outdoor,Brooklyn
+218,BK,Limited Free,Cablevision,40.57687,-73.94459,Outdoor,Brooklyn
+219,BK,Limited Free,Cablevision,40.57817,-73.94182,Outdoor,Brooklyn
+220,BK,Limited Free,Cablevision,40.57829,-73.94091,Outdoor,Brooklyn
+221,BK,Limited Free,Cablevision,40.57843,-73.93907,Outdoor,Brooklyn
+222,BK,Limited Free,Cablevision,40.57838,-73.93992,Outdoor,Brooklyn
+223,BK,Limited Free,Cablevision,40.57811,-73.94273,Outdoor,Brooklyn
+224,BK,Limited Free,Cablevision,40.57787,-73.9446,Outdoor,Brooklyn
+225,BK,Limited Free,Cablevision,40.57622,-73.94552,Outdoor,Brooklyn
+226,BK,Limited Free,Cablevision,40.5761,-73.94698,Outdoor,Brooklyn
+227,BK,Limited Free,Cablevision,40.57696,-73.94359,Outdoor,Brooklyn
+228,BK,Limited Free,Cablevision,40.57696,-73.94359,Outdoor,Brooklyn
+229,BK,Limited Free,Cablevision,40.57687,-73.94459,Outdoor,Brooklyn
+230,BK,Limited Free,Cablevision,40.70254,-73.923816,Outdoor,Bronx
+231,BK,Limited Free,Cablevision,40.703041,-73.923628,Outdoor,Bronx
+232,MN,Free,Chelsea,40.7431196183,-74.0083050731,Outdoor,New York
+233,MN,Free,Chelsea,40.7415832891,-74.0047109131,Outdoor,New York
+234,MN,Free,Chelsea,40.7410467844,-74.001803398,Outdoor,New York
+235,MN,Free,Chelsea,40.7436317201,-74.0059179066,Outdoor,New York
+237,MN,Free,Harlem,40.810014,-73.937553,Outdoor,New York
+238,MN,Free,Harlem,40.795988,-73.947426,Outdoor,New York
+239,MN,Free,Harlem,40.808227,-73.952457,Outdoor,New York
+240,MN,Free,Harlem,40.807543,-73.952793,Outdoor,New York
+241,MN,Free,Harlem,40.811042,-73.941404,Outdoor,New York
+242,MN,Free,Harlem,40.798959,-73.952396,Outdoor,New York
+243,MN,Free,Harlem,40.805097,-73.947042,Outdoor,New York
+244,MN,Free,Harlem,40.80409,-73.948564,Outdoor,New York
+245,MN,Free,Harlem,40.809888,-73.939012,Outdoor,New York
+246,MN,Free,Harlem,40.808338,-73.948989,Outdoor,New York
+247,MN,Free,Harlem,40.814105,-73.940443,Outdoor,New York
+248,MN,Free,Harlem,40.815132,-73.939685,Outdoor,New York
+249,MN,Free,Harlem,40.814563,-73.94003,Outdoor,New York
+250,MN,Free,Harlem,40.797467,-73.950717,Outdoor,New York
+251,MN,Free,Harlem,40.799703,-73.950994,Outdoor,New York
+252,MN,Free,Harlem,40.799435,-73.950994,Outdoor,New York
+253,MN,Free,Harlem,40.803786,-73.946159,Outdoor,New York
+254,BK,Free,Downtown Brooklyn,40.69186,-73.988721,Outdoor,Brooklyn
+255,BK,Free,Downtown Brooklyn,40.691677,-73.988841,Outdoor,Brooklyn
+256,BK,Free,Downtown Brooklyn,40.691569,-73.988711,Outdoor,Brooklyn
+257,BK,Free,Downtown Brooklyn,40.690137,-73.983226,Outdoor,Brooklyn
+258,BK,Free,Downtown Brooklyn,40.690072,-73.982325,Outdoor,Brooklyn
+3521,MN,Free,Transit Wireless,40.779492,-73.955589,Subway Station,New York
+3522,BX,Free,Transit Wireless,40.810476,-73.926138,Subway Station,Bronx
+3523,BX,Free,Transit Wireless,40.813224,-73.929849,Subway Station,Bronx
+3524,BX,Free,Transit Wireless,40.81841,-73.926718,Subway Station,Bronx
+263,BK,Free,Downtown Brooklyn,40.690233,-73.981328,Outdoor,Brooklyn
+264,BK,Free,Downtown Brooklyn,40.689967,-73.981214,Outdoor,Brooklyn
+265,BK,Free,Downtown Brooklyn,40.689989,-73.980928,Outdoor,Brooklyn
+266,BK,Free,Downtown Brooklyn,40.690622,-73.981414,Outdoor,Brooklyn
+267,BK,Free,Downtown Brooklyn,40.690883,-73.989635,Outdoor,Brooklyn
+268,BK,Free,Downtown Brooklyn,40.690883,-73.989635,Outdoor,Brooklyn
+269,BK,Free,Downtown Brooklyn,40.690883,-73.989635,Outdoor,Brooklyn
+270,BK,Free,Downtown Brooklyn,40.690883,-73.989635,Outdoor,Brooklyn
+271,BK,Free,Downtown Brooklyn,40.690883,-73.989635,Outdoor,Brooklyn
+3525,BX,Free,Transit Wireless,40.818375,-73.927351,Subway Station,Bronx
+3526,MN,Free,Transit Wireless,40.737826,-74.000201,Subway Station,New York
+3527,MN,Free,Transit Wireless,40.740893,-74.00169,Subway Station,New York
+3528,MN,Free,Transit Wireless,40.737335,-73.996786,Subway Station,New York
+3529,MN,Free,Transit Wireless,40.738228,-73.996209,Subway Station,New York
+3530,MN,Free,Transit Wireless,40.74104,-73.997871,Subway Station,New York
+3531,MN,Free,Transit Wireless,40.744081,-73.995657,Subway Station,New York
+3532,MN,Free,Transit Wireless,40.745906,-73.998041,Subway Station,New York
+3533,MN,Free,Transit Wireless,40.741303,-73.989344,Subway Station,New York
+281,BK,Free,Downtown Brooklyn,40.690883,-73.989635,Outdoor,Brooklyn
+282,BK,Free,Downtown Brooklyn,40.690883,-73.989635,Outdoor,Brooklyn
+283,BK,Free,Downtown Brooklyn,40.689985,-73.991995,Outdoor,Brooklyn
+284,BK,Free,Downtown Brooklyn,40.689906,-73.991944,Outdoor,Brooklyn
+3534,MN,Free,Transit Wireless,40.742878,-73.992821,Subway Station,New York
+3535,MN,Free,Transit Wireless,40.739864,-73.986599,Subway Station,New York
+3536,MN,Free,Transit Wireless,40.747215,-73.993365,Subway Station,New York
+3537,MN,Free,Transit Wireless,40.745494,-73.988691,Subway Station,New York
+289,BK,Free,Downtown Brooklyn,40.689967,-73.992083,Outdoor,Brooklyn
+290,BK,Free,Downtown Brooklyn,40.689997,-73.992,Outdoor,Brooklyn
+291,BK,Free,Downtown Brooklyn,40.690022,-73.991897,Outdoor,Brooklyn
+292,BK,Free,Downtown Brooklyn,40.695578,-73.98397,Outdoor,Brooklyn
+293,BK,Free,Downtown Brooklyn,40.689924,-73.988117,Outdoor,Brooklyn
+294,BK,Free,Downtown Brooklyn,40.689924,-73.988117,Outdoor,Brooklyn
+295,BK,Free,Downtown Brooklyn,40.689319,-73.987162,Outdoor,Brooklyn
+296,BK,Free,Downtown Brooklyn,40.690296,-73.987846,Outdoor,Brooklyn
+297,BK,Free,Downtown Brooklyn,40.689319,-73.987162,Outdoor,Brooklyn
+3538,MN,Free,Transit Wireless,40.74307,-73.984264,Subway Station,New York
+3539,MN,Free,Transit Wireless,40.746081,-73.982076,Subway Station,New York
+3540,MN,Free,Transit Wireless,40.749567,-73.98795,Subway Station,New York
+3541,MN,Free,Transit Wireless,40.749719,-73.987823,Subway Station,New York
+3542,MN,Free,Transit Wireless,40.754222,-73.984569,Subway Station,New York
+3543,MN,Free,Transit Wireless,40.757308,-73.989735,Subway Station,New York
+3544,MN,Free,Transit Wireless,40.758663,-73.981329,Subway Station,New York
+3545,MN,Free,Transit Wireless,40.759901,-73.984139,Subway Station,New York
+3546,MN,Free,Transit Wireless,40.762456,-73.985984,Subway Station,New York
+3547,MN,Free,Transit Wireless,40.761728,-73.983849,Subway Station,New York
+3548,MN,Free,Transit Wireless,40.763971,-73.977451,Subway Station,New York
+309,MN,Free,NYPL,40.7959199908,-73.9678485166,Library,New York
+310,BX,Free,NYPL,40.8476919036,-73.786366589,Library,Bronx
+311,BK,Free,BPL,40.6422084532,-73.8995244212,Library,Brooklyn
+312,BK,Free,BPL,40.5869999561,-73.9554283575,Library,Brooklyn
+313,BX,Free,NYPL,40.9004399098,-73.867942,Library,Bronx
+314,BK,Free,BPL,40.6752551911,-74.0103512916,Library,Brooklyn
+315,BK,Free,BPL,40.6753708519,-73.9485661367,Library,Brooklyn
+3549,MN,Free,Transit Wireless,40.764664,-73.980658,Subway Station,New York
+316,BK,Free,BPL,40.6834588325,-73.9785414755,Library,Brooklyn
+317,QU,Free,QPL,40.7451505182,-73.7148377572,Library,Glen Oaks
+318,BX,Free,NYPL,40.874379814,-73.8783843503,Library,Bronx
+319,QU,Free,QPL,40.593146783,-73.7840400286,Library,Arverne
+320,MN,Free,NYPL,40.834515209,-73.9396745829,Library,New York
+321,BK,Free,BPL,40.5913570544,-73.92396467,Library,Brooklyn
+322,BK,Free,BPL,40.7260506623,-73.9506902935,Library,Brooklyn
+323,BX,Free,NYPL,40.9037227771,-73.9027725428,Library,Bronx
+324,BX,Free,NYPL,40.8446740907,-73.8830446904,Library,Bronx
+325,BX,Free,NYPL,40.8115962129,-73.9243663402,Library,Bronx
+326,QU,Free,QPL,40.7070105556,-73.7537966712,Library,South Hollis
+327,MN,Free,NYPL,40.7706525435,-73.951341694,Library,New York
+328,QU,Free,QPL,40.6945465785,-73.8614464594,Library,Woodhaven
+329,MN,Free,NYPL,40.7621860177,-73.9693817047,Library,New York
+330,MN,Free,NYPL,40.7273073125,-73.9804076673,Library,New York
+331,MN,Free,NYPL,40.8060908156,-73.9647620603,Library,New York
+332,QU,Free,QPL,40.7723828899,-73.9287188126,Library,Long Island City
+333,BK,Free,BPL,40.6848100477,-73.915132416,Library,Brooklyn
+334,BX,Free,NYPL,40.8705019246,-73.8286579311,Library,Bronx
+335,SI,Free,NYPL,40.5095311239,-74.2441067083,Library,Staten Island
+336,MN,Free,NYPL,40.8256723738,-73.9480324189,Library,New York
+337,BX,Free,NYPL,40.8803222773,-73.9079833715,Library,Bronx
+338,QU,Free,QPL,40.7198855543,-73.7390438189,Library,Queens Village
+339,MN,Free,NYPL,40.802979882,-73.9535307443,Library,New York
+340,BX,Free,NYPL,40.8337362974,-73.8583552177,Library,Bronx
+341,BK,Free,BPL,40.6344746052,-73.8893046486,Library,Brooklyn
+342,QU,Free,QPL,40.7259184856,-73.8207190696,Library,Flushing
+343,MN,Free,NYPL,40.7859597986,-73.9518056716,Library,New York
+344,MN,Free,NYPL,40.7649346184,-73.9912208178,Library,New York
+345,SI,Free,NYPL,40.6262376099,-74.0778460903,Library,Staten Island
+346,SI,Free,NYPL,40.590391336,-74.1011372894,Library,Staten Island
+347,QU,Free,QPL,40.768225432,-73.7382294408,Library,Little Neck
+348,MN,Free,NYPL,40.7518915617,-73.9816985108,Library,New York
+349,SI,Free,NYPL,40.637585616,-74.1311046151,Library,Staten Island
+350,BK,Free,BPL,40.6727060872,-73.8740334898,Library,Brooklyn
+351,QU,Free,QPL,40.7552001994,-73.9442238947,Library,Long Island City
+352,BK,Free,BPL,40.6974822489,-73.9122106175,Library,Brooklyn
+353,SI,Free,NYPL,40.5958181468,-74.0629804652,Library,Staten Island
+354,BK,Free,BPL,40.5952368631,-73.9605993696,Library,Brooklyn
+355,BK,Free,BPL,40.6292120977,-74.0118696682,Library,Brooklyn
+356,QU,Free,QPL,40.7470624208,-73.9442436779,Library,Long Island City
+357,BK,Free,BPL,40.6357412846,-73.9476200285,Library,Brooklyn
+358,QU,Free,QPL,40.786249136,-73.8460132784,Library,College Point
+359,QU,Free,QPL,40.7221469532,-73.8430149968,Library,Forest Hills
+360,SI,Free,NYPL,40.6417853679,-74.0766457652,Library,Staten Island
+361,BK,Free,BPL,40.651925081,-73.9582421825,Library,Brooklyn
+362,BX,Free,NYPL,40.8442926727,-73.8278899073,Library,Bronx
+363,BX,Free,NYPL,40.8827597562,-73.8939224115,Library,Bronx
+364,BX,Free,NYPL,40.8265919268,-73.9175826513,Library,Bronx
+365,QU,Free,QPL,40.7637503163,-73.8098334843,Library,Flushing
+366,BK,Free,BPL,40.6948167,-73.9283986674,Library,Brooklyn
+367,BX,Free,NYPL,40.8574218942,-73.9093163503,Library,Bronx
+368,BK,Free,BPL,40.5948615151,-73.941124923,Library,Brooklyn
+369,QU,Free,QPL,40.6599636231,-73.7399110132,Library,Rosedale
+370,BK,Free,BPL,40.6651593697,-73.8860705368,Library,Brooklyn
+371,BX,Free,NYPL,40.8312637226,-73.9017889765,Library,Bronx
+372,QU,Free,QPL,40.7374341379,-73.8616559293,Library,Corona
+373,BK,Free,BPL,40.60800935,-74.0033765451,Library,Brooklyn
+374,BX,Free,NYPL,40.8187093522,-73.8628899561,Library,Bronx
+375,BX,Free,NYPL,40.8548777848,-73.8641435801,Library,Bronx
+376,BK,Free,BPL,40.6486367052,-73.9303739197,Library,Brooklyn
+377,QU,Free,QPL,40.7501960856,-73.8850693247,Library,Jackson Heights
+378,MN,Free,NYPL,40.7445100483,-73.9959597161,Library,New York
+379,QU,Free,QPL,40.7273165603,-73.864502826,Library,Rego Park
+380,BK,Free,BPL,40.616308137,-74.0119885202,Library,Brooklyn
+381,BK,Free,BPL,40.6832135153,-73.9980190603,Library,Brooklyn
+382,QU,Free,QPL,40.7737521088,-73.796343186,Library,Flushing
+383,QU,Free,QPL,40.7577118988,-73.8682002957,Library,Corona
+384,QU,Free,QPL,40.7885314443,-73.8107165591,Library,Whitestone
+385,BK,Free,BPL,40.6532640727,-73.8859090476,Library,Brooklyn
+386,QU,Free,QPL,40.7100345578,-73.8194531201,Library,Briarwood
+387,BX,Free,NYPL,40.8460423249,-73.8983402556,Library,Bronx
+388,MN,Free,NYPL,40.7289209029,-73.9877837339,Library,New York
+389,MN,Free,NYPL,40.8478700412,-73.9338659131,Library,New York
+390,BK,Free,BPL,40.6487169711,-73.9767572777,Library,Brooklyn
+391,BK,Free,BPL,40.6944896983,-73.9777326329,Library,Brooklyn
+392,BK,Free,BPL,40.6258933072,-73.9603144928,Library,Brooklyn
+393,MN,Free,NYPL,40.7735069912,-73.9845468452,Library,New York
+394,BK,Free,BPL,40.680687107,-73.887239509,Library,Brooklyn
+395,QU,Free,QPL,40.6947772916,-73.7396425691,Library,Cambria Heights
+396,BK,Free,BPL,40.59054439,-73.9718084463,Library,Brooklyn
+397,QU,Free,QPL,40.7711255247,-73.8269158096,Library,Flushing
+398,QU,Free,QPL,40.7577740683,-73.8288846851,Library,Flushing
+399,QU,Free,QPL,40.7344862637,-73.7556816711,Library,Bayside
+400,MN,Free,NYPL,40.7568571776,-73.9726324717,Library,New York
+401,QU,Free,QPL,40.7330342416,-73.8098798843,Library,Flushing
+402,BX,Free,NYPL,40.8862733773,-73.9146700146,Library,Bronx
+403,QU,Free,QPL,40.676952728,-73.7456735613,Library,Laurelton
+404,BK,Free,BPL,40.6916230873,-73.951283498,Library,Brooklyn
+405,QU,Free,QPL,40.7415435746,-73.7822740472,Library,Fresh Meadows
+406,BK,Free,BPL,40.576107747,-73.9667748762,Library,Brooklyn
+407,QU,Free,QPL,40.7575456796,-73.7843029637,Library,Flushing
+408,BX,Free,NYPL,40.8888948958,-73.8408371279,Library,Bronx
+409,BK,Free,BPL,40.6336257134,-74.0295383519,Library,Brooklyn
+410,BK,Free,BPL,40.6956825552,-73.9913479881,Library,Brooklyn
+411,MN,Free,NYPL,40.7848346367,-73.9774521159,Library,New York
+412,QU,Free,QPL,40.7768170122,-73.9094170178,Library,Long Island City
+413,QU,Free,QPL,40.7508940804,-73.861976844,Library,Corona
+414,BX,Free,NYPL,40.8411050877,-73.8466216551,Library,Bronx
+415,MN,Free,NYPL,40.8657295413,-73.9258533096,Library,New York
+416,BK,Free,BPL,40.6388851668,-73.9890077838,Library,Brooklyn
+417,QU,Free,QPL,40.7408087817,-73.9216691603,Library,Long Island City
+418,QU,Free,QPL,40.7269953701,-73.8931045649,Library,Maspeth
+419,MN,Free,NYPL,40.8137734314,-73.9570639052,Library,New York
+420,MN,Free,NYPL,40.7742029054,-73.9844546501,Library,New York
+421,MN,Free,NYPL,40.8148204092,-73.941197673,Library,New York
+422,QU,Free,QPL,40.7624221297,-73.87386663,Library,East Elmhurst
+423,QU,Free,QPL,40.7351569903,-73.7170989707,Library,Bellerose
+424,BK,Free,BPL,40.6715266559,-73.9086034329,Library,Brooklyn
+425,BK,Free,BPL,40.6611893077,-73.9481022991,Library,Brooklyn
+426,BK,Free,BPL,40.6684865101,-73.9336508496,Library,Brooklyn
+427,QU,Free,QPL,40.7825312039,-73.777008814,Library,Bayside
+428,QU,Free,QPL,40.6925280532,-73.760108788,Library,Saint Albans
+429,MN,Free,NYPL,40.7649150063,-73.9595499458,Library,New York
+430,MN,Free,NYPL,40.7736058206,-73.9564040689,Library,New York
+431,QU,Free,QPL,40.5858394078,-73.8160616201,Library,Rockaway Beach
+432,SI,Free,NYPL,40.5340582999,-74.193236856,Library,Staten Island
+4534,BX,Free,BETA LinkNYC - Citybridge,40.860215,-73.89306,Outdoor Kiosk,New York
+4535,BX,Free,BETA LinkNYC - Citybridge,40.862644,-73.903244,Outdoor Kiosk,New York
+4536,BX,Free,BETA LinkNYC - Citybridge,40.861349,-73.898023,Outdoor Kiosk,New York
+4537,BX,Free,BETA LinkNYC - Citybridge,40.861655,-73.898581,Outdoor Kiosk,New York
+4538,BX,Free,BETA LinkNYC - Citybridge,40.859153,-73.898553,Outdoor Kiosk,New York
+4539,BX,Free,BETA LinkNYC - Citybridge,40.819886,-73.926847,Outdoor Kiosk,New York
+4540,BX,Free,BETA LinkNYC - Citybridge,40.867362,-73.897624,Outdoor Kiosk,New York
+4541,BX,Free,BETA LinkNYC - Citybridge,40.839445,-73.915848,Outdoor Kiosk,New York
+4542,BX,Free,BETA LinkNYC - Citybridge,40.857756,-73.901091,Outdoor Kiosk,New York
+4543,BX,Free,BETA LinkNYC - Citybridge,40.867627,-73.89873,Outdoor Kiosk,New York
+4544,BX,Free,BETA LinkNYC - Citybridge,40.867828,-73.899576,Outdoor Kiosk,New York
+4545,BX,Free,BETA LinkNYC - Citybridge,40.862314,-73.900316,Outdoor Kiosk,New York
+4546,BX,Free,BETA LinkNYC - Citybridge,40.86063,-73.902369,Outdoor Kiosk,New York
+4547,BX,Free,BETA LinkNYC - Citybridge,40.831467,-73.921747,Outdoor Kiosk,New York
+4548,BX,Free,BETA LinkNYC - Citybridge,40.853042,-73.905553,Outdoor Kiosk,New York
+4549,BX,Free,BETA LinkNYC - Citybridge,40.853157,-73.905403,Outdoor Kiosk,New York
+4550,BX,Free,BETA LinkNYC - Citybridge,40.818942,-73.92837,Outdoor Kiosk,New York
+4551,BX,Free,BETA LinkNYC - Citybridge,40.827549,-73.925904,Outdoor Kiosk,New York
+4552,BX,Free,BETA LinkNYC - Citybridge,40.827355,-73.925223,Outdoor Kiosk,New York
+4553,BX,Free,BETA LinkNYC - Citybridge,40.827828,-73.924842,Outdoor Kiosk,New York
+4554,MN,Free,BETA LinkNYC - Citybridge,40.765828,-73.983364,Outdoor Kiosk,New York
+4555,MN,Free,BETA LinkNYC - Citybridge,40.766175,-73.98199,Outdoor Kiosk,New York
+4556,MN,Free,BETA LinkNYC - Citybridge,40.746624,-73.988399,Outdoor Kiosk,New York
+4557,MN,Free,BETA LinkNYC - Citybridge,40.749663,-73.988006,Outdoor Kiosk,New York
+4558,MN,Free,BETA LinkNYC - Citybridge,40.754494,-73.986941,Outdoor Kiosk,New York
+4559,MN,Free,BETA LinkNYC - Citybridge,40.754846,-73.986363,Outdoor Kiosk,New York
+4560,MN,Free,BETA LinkNYC - Citybridge,40.760413,-73.984541,Outdoor Kiosk,New York
+4561,MN,Free,BETA LinkNYC - Citybridge,40.760269,-73.984867,Outdoor Kiosk,New York
+4562,MN,Free,BETA LinkNYC - Citybridge,40.760646,-73.98442,Outdoor Kiosk,New York
+4563,MN,Free,BETA LinkNYC - Citybridge,40.760622,-73.984234,Outdoor Kiosk,New York
+4564,MN,Free,BETA LinkNYC - Citybridge,40.76072,-73.984642,Outdoor Kiosk,New York
+4565,MN,Free,BETA LinkNYC - Citybridge,40.760883,-73.984278,Outdoor Kiosk,New York
+4566,MN,Free,BETA LinkNYC - Citybridge,40.763981,-73.982638,Outdoor Kiosk,New York
+4567,MN,Free,BETA LinkNYC - Citybridge,40.764127,-73.98231,Outdoor Kiosk,New York
+4568,MN,Free,BETA LinkNYC - Citybridge,40.764676,-73.982385,Outdoor Kiosk,New York
+4569,MN,Free,BETA LinkNYC - Citybridge,40.750087,-73.987781,Outdoor Kiosk,New York
+4570,MN,Free,BETA LinkNYC - Citybridge,40.733107,-73.987162,Outdoor Kiosk,New York
+4571,MN,Free,BETA LinkNYC - Citybridge,40.733694,-73.987044,Outdoor Kiosk,New York
+4572,MN,Free,BETA LinkNYC - Citybridge,40.73347,-73.987384,Outdoor Kiosk,New York
+4573,MN,Free,BETA LinkNYC - Citybridge,40.733794,-73.986675,Outdoor Kiosk,New York
+4574,MN,Free,BETA LinkNYC - Citybridge,40.734499,-73.98618,Outdoor Kiosk,New York
+4575,MN,Free,BETA LinkNYC - Citybridge,40.742625,-73.980628,Outdoor Kiosk,New York
+4576,MN,Free,BETA LinkNYC - Citybridge,40.748387,-73.976353,Outdoor Kiosk,New York
+4577,MN,Free,BETA LinkNYC - Citybridge,40.74829,-73.976516,Outdoor Kiosk,New York
+4578,MN,Free,BETA LinkNYC - Citybridge,40.758276,-73.969132,Outdoor Kiosk,New York
+4579,MN,Free,BETA LinkNYC - Citybridge,40.739531,-73.982889,Outdoor Kiosk,New York
+4580,MN,Free,BETA LinkNYC - Citybridge,40.734772,-73.986265,Outdoor Kiosk,New York
+4581,MN,Free,BETA LinkNYC - Citybridge,40.73535,-73.98585,Outdoor Kiosk,New York
+4582,MN,Free,BETA LinkNYC - Citybridge,40.735626,-73.985322,Outdoor Kiosk,New York
+4583,MN,Free,BETA LinkNYC - Citybridge,40.750729,-73.974079,Outdoor Kiosk,New York
+4584,MN,Free,BETA LinkNYC - Citybridge,40.760207,-73.967177,Outdoor Kiosk,New York
+4585,MN,Free,BETA LinkNYC - Citybridge,40.736214,-73.9849,Outdoor Kiosk,New York
+4586,MN,Free,BETA LinkNYC - Citybridge,40.735839,-73.985171,Outdoor Kiosk,New York
+4587,MN,Free,BETA LinkNYC - Citybridge,40.736334,-73.985129,Outdoor Kiosk,New York
+4588,MN,Free,BETA LinkNYC - Citybridge,40.736427,-73.984751,Outdoor Kiosk,New York
+4589,MN,Free,BETA LinkNYC - Citybridge,40.736789,-73.984486,Outdoor Kiosk,New York
+4590,MN,Free,BETA LinkNYC - Citybridge,40.740041,-73.982424,Outdoor Kiosk,New York
+4591,MN,Free,BETA LinkNYC - Citybridge,40.739964,-73.982043,Outdoor Kiosk,New York
+4592,MN,Free,BETA LinkNYC - Citybridge,40.740246,-73.982383,Outdoor Kiosk,New York
+4593,MN,Free,BETA LinkNYC - Citybridge,40.740573,-73.981729,Outdoor Kiosk,New York
+4594,MN,Free,BETA LinkNYC - Citybridge,40.740775,-73.981576,Outdoor Kiosk,New York
+4595,MN,Free,BETA LinkNYC - Citybridge,40.741169,-73.981297,Outdoor Kiosk,New York
+4596,MN,Free,BETA LinkNYC - Citybridge,40.742007,-73.98068,Outdoor Kiosk,New York
+4597,MN,Free,BETA LinkNYC - Citybridge,40.743093,-73.979813,Outdoor Kiosk,New York
+4598,MN,Free,BETA LinkNYC - Citybridge,40.743954,-73.979652,Outdoor Kiosk,New York
+4599,MN,Free,BETA LinkNYC - Citybridge,40.743876,-73.979316,Outdoor Kiosk,New York
+4600,MN,Free,BETA LinkNYC - Citybridge,40.745116,-73.978416,Outdoor Kiosk,New York
+4601,MN,Free,BETA LinkNYC - Citybridge,40.746449,-73.977444,Outdoor Kiosk,New York
+4602,MN,Free,BETA LinkNYC - Citybridge,40.746542,-73.977695,Outdoor Kiosk,New York
+4603,MN,Free,BETA LinkNYC - Citybridge,40.747672,-73.976965,Outdoor Kiosk,New York
+4604,MN,Free,BETA LinkNYC - Citybridge,40.74779,-73.976782,Outdoor Kiosk,New York
+4605,MN,Free,BETA LinkNYC - Citybridge,40.748289,-73.976105,Outdoor Kiosk,New York
+4606,MN,Free,BETA LinkNYC - Citybridge,40.748822,-73.976034,Outdoor Kiosk,New York
+4607,MN,Free,BETA LinkNYC - Citybridge,40.748732,-73.97536,Outdoor Kiosk,New York
+4608,MN,Free,BETA LinkNYC - Citybridge,40.748914,-73.975648,Outdoor Kiosk,New York
+4609,MN,Free,BETA LinkNYC - Citybridge,40.750156,-73.974741,Outdoor Kiosk,New York
+4610,MN,Free,BETA LinkNYC - Citybridge,40.750389,-73.974858,Outdoor Kiosk,New York
+4611,MN,Free,BETA LinkNYC - Citybridge,40.75096,-73.974468,Outdoor Kiosk,New York
+4612,MN,Free,BETA LinkNYC - Citybridge,40.751406,-73.974143,Outdoor Kiosk,New York
+4613,MN,Free,BETA LinkNYC - Citybridge,40.751497,-73.973765,Outdoor Kiosk,New York
+4614,MN,Free,BETA LinkNYC - Citybridge,40.752666,-73.972842,Outdoor Kiosk,New York
+4615,MN,Free,BETA LinkNYC - Citybridge,40.753196,-73.972445,Outdoor Kiosk,New York
+4616,MN,Free,BETA LinkNYC - Citybridge,40.753899,-73.972326,Outdoor Kiosk,New York
+4617,MN,Free,BETA LinkNYC - Citybridge,40.754092,-73.97218,Outdoor Kiosk,New York
+4618,MN,Free,BETA LinkNYC - Citybridge,40.754513,-73.971879,Outdoor Kiosk,New York
+4619,MN,Free,BETA LinkNYC - Citybridge,40.75523,-73.971024,Outdoor Kiosk,New York
+4620,MN,Free,BETA LinkNYC - Citybridge,40.755874,-73.971032,Outdoor Kiosk,New York
+4621,MN,Free,BETA LinkNYC - Citybridge,40.755362,-73.971265,Outdoor Kiosk,New York
+4622,MN,Free,BETA LinkNYC - Citybridge,40.756324,-73.970145,Outdoor Kiosk,New York
+4623,MN,Free,BETA LinkNYC - Citybridge,40.756503,-73.970107,Outdoor Kiosk,New York
+4624,MN,Free,BETA LinkNYC - Citybridge,40.75691,-73.969813,Outdoor Kiosk,New York
+3655,BX,Free,Transit Wireless,40.839306,-73.9134,Subway Station,Bronx
+3656,BX,Free,Transit Wireless,40.833773,-73.918438,Subway Station,Bronx
+3657,BX,Free,Transit Wireless,40.820948,-73.890549,Subway Station,Bronx
+3658,MN,Free,Transit Wireless,40.76266,-73.967258,Subway Station,New York
+3659,BX,Free,Transit Wireless,40.85041,-73.905227,Subway Station,Bronx
+3660,BX,Free,Transit Wireless,40.8459,-73.910136,Subway Station,Bronx
+3661,BX,Free,Transit Wireless,40.827905,-73.925651,Subway Station,Bronx
+3662,MN,Free,Transit Wireless,40.757552,-73.969055,Subway Station,New York
+3663,MN,Free,Transit Wireless,40.762526,-73.967967,Subway Station,New York
+3664,MN,Free,Transit Wireless,40.757107,-73.97192,Subway Station,New York
+3665,BX,Free,Transit Wireless,40.861296,-73.897749,Subway Station,Bronx
+3666,BX,Free,Transit Wireless,40.816109,-73.917757,Subway Station,Bronx
+3667,BX,Free,Transit Wireless,40.856093,-73.900741,Subway Station,Bronx
+3668,BK,Free,Transit Wireless,40.717304,-73.956872,Subway Station,Brooklyn
+3669,BK,Free,Transit Wireless,40.714565,-73.944053,Subway Station,Brooklyn
+3670,BK,Free,Transit Wireless,40.731352,-73.954449,Subway Station,Brooklyn
+3671,BK,Free,Transit Wireless,40.724635,-73.951277,Subway Station,Brooklyn
+3672,MN,Free,Transit Wireless,40.724329,-73.997702,Subway Station,New York
+3673,MN,Free,Transit Wireless,40.733422,-74.002906,Subway Station,New York
+3674,MN,Free,Transit Wireless,40.728251,-74.005367,Subway Station,New York
+3675,MN,Free,Transit Wireless,40.730328,-73.992629,Subway Station,New York
+3676,MN,Free,Transit Wireless,40.719527,-74.001775,Subway Station,New York
+3677,MN,Free,Transit Wireless,40.718383,-74.00046,Subway Station,New York
+3678,MN,Free,Transit Wireless,40.713282,-74.006978,Subway Station,New York
+3679,MN,Free,Transit Wireless,40.72028,-73.993915,Subway Station,New York
+3680,MN,Free,Transit Wireless,40.718092,-73.999892,Subway Station,New York
+3681,MN,Free,Transit Wireless,40.732849,-73.986122,Subway Station,New York
+3682,MN,Free,Transit Wireless,40.730953,-73.981628,Subway Station,New York
+3683,MN,Free,Transit Wireless,40.732338,-74.000495,Subway Station,New York
+3684,MN,Free,Transit Wireless,40.726227,-74.003739,Subway Station,New York
+3685,MN,Free,Transit Wireless,40.720824,-74.005229,Subway Station,New York
+3686,MN,Free,Transit Wireless,40.714111,-74.008585,Subway Station,New York
+3687,MN,Free,Transit Wireless,40.712582,-74.009781,Subway Station,New York
+3688,MN,Free,Transit Wireless,40.718267,-73.993753,Subway Station,New York
+3689,MN,Free,Transit Wireless,40.722854,-74.006277,Subway Station,New York
+3690,MN,Free,Transit Wireless,40.719318,-74.006886,Subway Station,New York
+3691,MN,Free,Transit Wireless,40.715478,-74.009266,Subway Station,New York
+3692,MN,Free,Transit Wireless,40.707513,-74.013783,Subway Station,New York
+3693,MN,Free,Transit Wireless,40.713051,-74.008811,Subway Station,New York
+3694,MN,Free,Transit Wireless,40.706821,-74.0091,Subway Station,New York
+3695,MN,Free,Transit Wireless,40.722301,-73.997141,Subway Station,New York
+3696,MN,Free,Transit Wireless,40.718803,-74.000193,Subway Station,New York
+3697,BK,Free,Transit Wireless,40.712792,-73.951418,Subway Station,Brooklyn
+3698,BK,Free,Transit Wireless,40.714063,-73.950275,Subway Station,Brooklyn
+3699,MN,Free,Transit Wireless,40.70722,-74.013342,Subway Station,New York
+3700,MN,Free,Transit Wireless,40.713243,-74.003401,Subway Station,New York
+3701,MN,Free,Transit Wireless,40.725915,-73.994659,Subway Station,New York
+3702,MN,Free,Transit Wireless,40.707557,-74.011862,Subway Station,New York
+4625,MN,Free,BETA LinkNYC - Citybridge,40.758518,-73.968987,Outdoor Kiosk,New York
+4626,MN,Free,BETA LinkNYC - Citybridge,40.758993,-73.968727,Outdoor Kiosk,New York
+4627,MN,Free,BETA LinkNYC - Citybridge,40.758397,-73.968709,Outdoor Kiosk,New York
+2694,BK,Free,NYCHA,40.695317,-73.981155,Outdoor,New York
+4628,MN,Free,BETA LinkNYC - Citybridge,40.758817,-73.96841,Outdoor Kiosk,New York
+4629,MN,Free,BETA LinkNYC - Citybridge,40.75961,-73.968242,Outdoor Kiosk,New York
+4630,MN,Free,BETA LinkNYC - Citybridge,40.759756,-73.968048,Outdoor Kiosk,New York
+4631,MN,Free,BETA LinkNYC - Citybridge,40.760003,-73.967592,Outdoor Kiosk,New York
+4632,MN,Free,BETA LinkNYC - Citybridge,40.759631,-73.967826,Outdoor Kiosk,New York
+4633,MN,Free,BETA LinkNYC - Citybridge,40.760136,-73.967777,Outdoor Kiosk,New York
+4634,MN,Free,BETA LinkNYC - Citybridge,40.760346,-73.967303,Outdoor Kiosk,New York
+4635,MN,Free,BETA LinkNYC - Citybridge,40.760462,-73.967551,Outdoor Kiosk,New York
+4636,MN,Free,BETA LinkNYC - Citybridge,40.761604,-73.966388,Outdoor Kiosk,New York
+4637,MN,Free,BETA LinkNYC - Citybridge,40.739442,-74.002597,Outdoor Kiosk,New York
+4638,MN,Free,BETA LinkNYC - Citybridge,40.742297,-74.00094,Outdoor Kiosk,New York
+4639,MN,Free,BETA LinkNYC - Citybridge,40.767271,-73.982247,Outdoor Kiosk,New York
+4640,MN,Free,BETA LinkNYC - Citybridge,40.743582,-73.999902,Outdoor Kiosk,New York
+4641,MN,Free,BETA LinkNYC - Citybridge,40.744263,-73.999405,Outdoor Kiosk,New York
+4642,MN,Free,BETA LinkNYC - Citybridge,40.744403,-73.998993,Outdoor Kiosk,New York
+4643,MN,Free,BETA LinkNYC - Citybridge,40.744589,-73.999171,Outdoor Kiosk,New York
+4644,MN,Free,BETA LinkNYC - Citybridge,40.74475,-73.998736,Outdoor Kiosk,New York
+4645,MN,Free,BETA LinkNYC - Citybridge,40.747905,-73.996434,Outdoor Kiosk,New York
+4646,MN,Free,BETA LinkNYC - Citybridge,40.763424,-73.985061,Outdoor Kiosk,New York
+4647,MN,Free,BETA LinkNYC - Citybridge,40.745445,-73.998618,Outdoor Kiosk,New York
+4648,MN,Free,BETA LinkNYC - Citybridge,40.757544,-73.989409,Outdoor Kiosk,New York
+4649,MN,Free,BETA LinkNYC - Citybridge,40.757753,-73.989252,Outdoor Kiosk,New York
+4650,MN,Free,BETA LinkNYC - Citybridge,40.745929,-73.997753,Outdoor Kiosk,New York
+4651,MN,Free,BETA LinkNYC - Citybridge,40.766642,-73.983101,Outdoor Kiosk,New York
+4652,MN,Free,BETA LinkNYC - Citybridge,40.766947,-73.98315,Outdoor Kiosk,New York
+4653,MN,Free,BETA LinkNYC - Citybridge,40.766964,-73.982855,Outdoor Kiosk,New York
+4654,MN,Free,BETA LinkNYC - Citybridge,40.754138,-73.992341,Outdoor Kiosk,New York
+4655,MN,Free,BETA LinkNYC - Citybridge,40.747381,-73.997136,Outdoor Kiosk,New York
+4656,MN,Free,BETA LinkNYC - Citybridge,40.749122,-73.995553,Outdoor Kiosk,New York
+4657,MN,Free,BETA LinkNYC - Citybridge,40.767363,-73.982576,Outdoor Kiosk,New York
+4658,MN,Free,BETA LinkNYC - Citybridge,40.749828,-73.995525,Outdoor Kiosk,New York
+4659,MN,Free,BETA LinkNYC - Citybridge,40.75023,-73.995059,Outdoor Kiosk,New York
+4660,MN,Free,BETA LinkNYC - Citybridge,40.752709,-73.992756,Outdoor Kiosk,New York
+4661,MN,Free,BETA LinkNYC - Citybridge,40.752949,-73.992762,Outdoor Kiosk,New York
+4662,MN,Free,BETA LinkNYC - Citybridge,40.75343,-73.992731,Outdoor Kiosk,New York
+4663,MN,Free,BETA LinkNYC - Citybridge,40.753643,-73.992565,Outdoor Kiosk,New York
+4664,MN,Free,BETA LinkNYC - Citybridge,40.754171,-73.991871,Outdoor Kiosk,New York
+4665,MN,Free,BETA LinkNYC - Citybridge,40.754668,-73.991821,Outdoor Kiosk,New York
+4666,MN,Free,BETA LinkNYC - Citybridge,40.755283,-73.991376,Outdoor Kiosk,New York
+4667,MN,Free,BETA LinkNYC - Citybridge,40.7555,-73.991425,Outdoor Kiosk,New York
+4668,MN,Free,BETA LinkNYC - Citybridge,40.755879,-73.990935,Outdoor Kiosk,New York
+4669,MN,Free,BETA LinkNYC - Citybridge,40.758668,-73.988905,Outdoor Kiosk,New York
+4670,MN,Free,BETA LinkNYC - Citybridge,40.758832,-73.988782,Outdoor Kiosk,New York
+4671,MN,Free,BETA LinkNYC - Citybridge,40.759109,-73.988585,Outdoor Kiosk,New York
+4672,MN,Free,BETA LinkNYC - Citybridge,40.759221,-73.988186,Outdoor Kiosk,New York
+4673,MN,Free,BETA LinkNYC - Citybridge,40.739672,-74.002748,Outdoor Kiosk,New York
+4674,MN,Free,BETA LinkNYC - Citybridge,40.76107,-73.987254,Outdoor Kiosk,New York
+4675,MN,Free,BETA LinkNYC - Citybridge,40.761094,-73.986828,Outdoor Kiosk,New York
+4676,MN,Free,BETA LinkNYC - Citybridge,40.739846,-74.002305,Outdoor Kiosk,New York
+4677,MN,Free,BETA LinkNYC - Citybridge,40.739722,-74.002214,Outdoor Kiosk,New York
+4678,MN,Free,BETA LinkNYC - Citybridge,40.762247,-73.986295,Outdoor Kiosk,New York
+4679,MN,Free,BETA LinkNYC - Citybridge,40.762151,-73.986052,Outdoor Kiosk,New York
+4680,MN,Free,BETA LinkNYC - Citybridge,40.762331,-73.985923,Outdoor Kiosk,New York
+4681,MN,Free,BETA LinkNYC - Citybridge,40.764338,-73.984767,Outdoor Kiosk,New York
+4682,MN,Free,BETA LinkNYC - Citybridge,40.764646,-73.984229,Outdoor Kiosk,New York
+4683,MN,Free,BETA LinkNYC - Citybridge,40.764212,-73.984544,Outdoor Kiosk,New York
+4684,MN,Free,BETA LinkNYC - Citybridge,40.764744,-73.98447,Outdoor Kiosk,New York
+4685,MN,Free,BETA LinkNYC - Citybridge,40.764823,-73.984099,Outdoor Kiosk,New York
+4686,MN,Free,BETA LinkNYC - Citybridge,40.764934,-73.984336,Outdoor Kiosk,New York
+4687,MN,Free,BETA LinkNYC - Citybridge,40.765522,-73.983593,Outdoor Kiosk,New York
+4688,MN,Free,BETA LinkNYC - Citybridge,40.765604,-73.983853,Outdoor Kiosk,New York
+4689,MN,Free,BETA LinkNYC - Citybridge,40.766012,-73.983549,Outdoor Kiosk,New York
+4690,MN,Free,BETA LinkNYC - Citybridge,40.760569,-73.987529,Outdoor Kiosk,New York
+4691,MN,Free,BETA LinkNYC - Citybridge,40.759748,-73.988118,Outdoor Kiosk,New York
+4692,MN,Free,BETA LinkNYC - Citybridge,40.762432,-73.986159,Outdoor Kiosk,New York
+4693,MN,Free,BETA LinkNYC - Citybridge,40.760895,-73.986836,Outdoor Kiosk,New York
+4694,MN,Free,BETA LinkNYC - Citybridge,40.761816,-73.986606,Outdoor Kiosk,New York
+4695,MN,Free,BETA LinkNYC - Citybridge,40.759938,-73.987975,Outdoor Kiosk,New York
+4696,MN,Free,BETA LinkNYC - Citybridge,40.759654,-73.987773,Outdoor Kiosk,New York
+4697,MN,Free,BETA LinkNYC - Citybridge,40.762092,-73.965806,Outdoor Kiosk,New York
+4698,MN,Free,BETA LinkNYC - Citybridge,40.762896,-73.965443,Outdoor Kiosk,New York
+4699,MN,Free,BETA LinkNYC - Citybridge,40.763037,-73.965653,Outdoor Kiosk,New York
+4700,MN,Free,BETA LinkNYC - Citybridge,40.767309,-73.96253,Outdoor Kiosk,New York
+4701,MN,Free,BETA LinkNYC - Citybridge,40.767231,-73.962305,Outdoor Kiosk,New York
+4702,MN,Free,BETA LinkNYC - Citybridge,40.767655,-73.961971,Outdoor Kiosk,New York
+4703,MN,Free,BETA LinkNYC - Citybridge,40.767853,-73.962256,Outdoor Kiosk,New York
+4704,MN,Free,BETA LinkNYC - Citybridge,40.768943,-73.960952,Outdoor Kiosk,New York
+4705,MN,Free,BETA LinkNYC - Citybridge,40.770545,-73.960254,Outdoor Kiosk,New York
+4706,MN,Free,BETA LinkNYC - Citybridge,40.770456,-73.959928,Outdoor Kiosk,New York
+4707,MN,Free,BETA LinkNYC - Citybridge,40.772144,-73.958697,Outdoor Kiosk,New York
+4708,MN,Free,BETA LinkNYC - Citybridge,40.772356,-73.958536,Outdoor Kiosk,New York
+4709,MN,Free,BETA LinkNYC - Citybridge,40.772365,-73.958948,Outdoor Kiosk,New York
+4710,MN,Free,BETA LinkNYC - Citybridge,40.772478,-73.958769,Outdoor Kiosk,New York
+4711,MN,Free,BETA LinkNYC - Citybridge,40.773003,-73.958474,Outdoor Kiosk,New York
+4712,MN,Free,BETA LinkNYC - Citybridge,40.772825,-73.958235,Outdoor Kiosk,New York
+4713,MN,Free,BETA LinkNYC - Citybridge,40.773727,-73.957965,Outdoor Kiosk,New York
+4714,MN,Free,BETA LinkNYC - Citybridge,40.774207,-73.957499,Outdoor Kiosk,New York
+4715,MN,Free,BETA LinkNYC - Citybridge,40.77435,-73.95709,Outdoor Kiosk,New York
+4716,MN,Free,BETA LinkNYC - Citybridge,40.774855,-73.956665,Outdoor Kiosk,New York
+4717,MN,Free,BETA LinkNYC - Citybridge,40.776367,-73.955933,Outdoor Kiosk,New York
+4718,MN,Free,BETA LinkNYC - Citybridge,40.776833,-73.955586,Outdoor Kiosk,New York
+4719,MN,Free,BETA LinkNYC - Citybridge,40.77702,-73.955139,Outdoor Kiosk,New York
+4720,MN,Free,BETA LinkNYC - Citybridge,40.777561,-73.954752,Outdoor Kiosk,New York
+4721,MN,Free,BETA LinkNYC - Citybridge,40.777528,-73.955153,Outdoor Kiosk,New York
+4722,MN,Free,BETA LinkNYC - Citybridge,40.778272,-73.954541,Outdoor Kiosk,New York
+4723,MN,Free,BETA LinkNYC - Citybridge,40.778003,-73.954428,Outdoor Kiosk,New York
+4724,MN,Free,BETA LinkNYC - Citybridge,40.7786,-73.95399,Outdoor Kiosk,New York
+4725,MN,Free,BETA LinkNYC - Citybridge,40.778603,-73.953717,Outdoor Kiosk,New York
+4726,MN,Free,BETA LinkNYC - Citybridge,40.778792,-73.953663,Outdoor Kiosk,New York
+4727,MN,Free,BETA LinkNYC - Citybridge,40.779038,-73.95398,Outdoor Kiosk,New York
+4728,MN,Free,BETA LinkNYC - Citybridge,40.779535,-73.953715,Outdoor Kiosk,New York
+4729,MN,Free,BETA LinkNYC - Citybridge,40.779635,-73.953537,Outdoor Kiosk,New York
+4730,MN,Free,BETA LinkNYC - Citybridge,40.780782,-73.9524,Outdoor Kiosk,New York
+4731,MN,Free,BETA LinkNYC - Citybridge,40.781503,-73.952279,Outdoor Kiosk,New York
+4732,MN,Free,BETA LinkNYC - Citybridge,40.782159,-73.951699,Outdoor Kiosk,New York
+4733,MN,Free,BETA LinkNYC - Citybridge,40.782768,-73.951263,Outdoor Kiosk,New York
+4734,MN,Free,BETA LinkNYC - Citybridge,40.783285,-73.950553,Outdoor Kiosk,New York
+4735,MN,Free,BETA LinkNYC - Citybridge,40.784663,-73.949875,Outdoor Kiosk,New York
+4736,MN,Free,BETA LinkNYC - Citybridge,40.785818,-73.949032,Outdoor Kiosk,New York
+4737,MN,Free,BETA LinkNYC - Citybridge,40.787309,-73.947944,Outdoor Kiosk,New York
+4738,MN,Free,BETA LinkNYC - Citybridge,40.789608,-73.946262,Outdoor Kiosk,New York
+4739,MN,Free,BETA LinkNYC - Citybridge,40.790401,-73.945683,Outdoor Kiosk,New York
+4740,MN,Free,BETA LinkNYC - Citybridge,40.790862,-73.945348,Outdoor Kiosk,New York
+4741,MN,Free,BETA LinkNYC - Citybridge,40.791482,-73.944898,Outdoor Kiosk,New York
+4742,MN,Free,BETA LinkNYC - Citybridge,40.791275,-73.944221,Outdoor Kiosk,New York
+4743,MN,Free,BETA LinkNYC - Citybridge,40.792394,-73.944231,Outdoor Kiosk,New York
+4744,MN,Free,BETA LinkNYC - Citybridge,40.792292,-73.943977,Outdoor Kiosk,New York
+4745,MN,Free,BETA LinkNYC - Citybridge,40.793009,-73.943784,Outdoor Kiosk,New York
+4746,MN,Free,BETA LinkNYC - Citybridge,40.794274,-73.942861,Outdoor Kiosk,New York
+4747,MN,Free,BETA LinkNYC - Citybridge,40.794912,-73.942398,Outdoor Kiosk,New York
+4748,MN,Free,BETA LinkNYC - Citybridge,40.797303,-73.940337,Outdoor Kiosk,New York
+4749,MN,Free,BETA LinkNYC - Citybridge,40.797836,-73.940258,Outdoor Kiosk,New York
+4750,MN,Free,BETA LinkNYC - Citybridge,40.797709,-73.940035,Outdoor Kiosk,New York
+4751,MN,Free,BETA LinkNYC - Citybridge,40.798156,-73.940174,Outdoor Kiosk,New York
+4752,MN,Free,BETA LinkNYC - Citybridge,40.801528,-73.937249,Outdoor Kiosk,New York
+4753,MN,Free,BETA LinkNYC - Citybridge,40.801899,-73.93729,Outdoor Kiosk,New York
+4754,MN,Free,BETA LinkNYC - Citybridge,40.802663,-73.93672,Outdoor Kiosk,New York
+4755,MN,Free,BETA LinkNYC - Citybridge,40.80287,-73.93627,Outdoor Kiosk,New York
+4756,MN,Free,BETA LinkNYC - Citybridge,40.803517,-73.93611,Outdoor Kiosk,New York
+4757,MN,Free,BETA LinkNYC - Citybridge,40.803731,-73.936139,Outdoor Kiosk,New York
+4758,MN,Free,BETA LinkNYC - Citybridge,40.765881,-73.963586,Outdoor Kiosk,New York
+4759,MN,Free,BETA LinkNYC - Citybridge,40.774723,-73.982001,Outdoor Kiosk,New York
+4760,MN,Free,BETA LinkNYC - Citybridge,40.774894,-73.982571,Outdoor Kiosk,New York
+4761,MN,Free,BETA LinkNYC - Citybridge,40.774757,-73.982507,Outdoor Kiosk,New York
+4762,MN,Free,BETA LinkNYC - Citybridge,40.774646,-73.982408,Outdoor Kiosk,New York
+4763,MN,Free,BETA LinkNYC - Citybridge,40.77539,-73.981829,Outdoor Kiosk,New York
+4764,MN,Free,BETA LinkNYC - Citybridge,40.776474,-73.982429,Outdoor Kiosk,New York
+4765,MN,Free,BETA LinkNYC - Citybridge,40.777137,-73.981899,Outdoor Kiosk,New York
+4766,MN,Free,BETA LinkNYC - Citybridge,40.778607,-73.98218,Outdoor Kiosk,New York
+4767,MN,Free,BETA LinkNYC - Citybridge,40.779099,-73.982074,Outdoor Kiosk,New York
+4768,MN,Free,BETA LinkNYC - Citybridge,40.779331,-73.981991,Outdoor Kiosk,New York
+4769,MN,Free,BETA LinkNYC - Citybridge,40.780321,-73.981309,Outdoor Kiosk,New York
+4770,MN,Free,BETA LinkNYC - Citybridge,40.780825,-73.981168,Outdoor Kiosk,New York
+4771,MN,Free,BETA LinkNYC - Citybridge,40.780993,-73.981524,Outdoor Kiosk,New York
+4772,MN,Free,BETA LinkNYC - Citybridge,40.781474,-73.980961,Outdoor Kiosk,New York
+4773,MN,Free,BETA LinkNYC - Citybridge,40.781694,-73.980793,Outdoor Kiosk,New York
+4774,MN,Free,BETA LinkNYC - Citybridge,40.781843,-73.980833,Outdoor Kiosk,New York
+4775,MN,Free,BETA LinkNYC - Citybridge,40.782528,-73.980586,Outdoor Kiosk,New York
+4776,MN,Free,BETA LinkNYC - Citybridge,40.783191,-73.980253,Outdoor Kiosk,New York
+4777,MN,Free,BETA LinkNYC - Citybridge,40.785005,-73.978781,Outdoor Kiosk,New York
+4778,MN,Free,BETA LinkNYC - Citybridge,40.785813,-73.978293,Outdoor Kiosk,New York
+4779,MN,Free,BETA LinkNYC - Citybridge,40.78622,-73.977987,Outdoor Kiosk,New York
+4780,MN,Free,BETA LinkNYC - Citybridge,40.786204,-73.977693,Outdoor Kiosk,New York
+4781,MN,Free,BETA LinkNYC - Citybridge,40.786403,-73.9783,Outdoor Kiosk,New York
+4782,MN,Free,BETA LinkNYC - Citybridge,40.786896,-73.977483,Outdoor Kiosk,New York
+4783,MN,Free,BETA LinkNYC - Citybridge,40.788006,-73.976545,Outdoor Kiosk,New York
+4784,MN,Free,BETA LinkNYC - Citybridge,40.790899,-73.974297,Outdoor Kiosk,New York
+4785,MN,Free,BETA LinkNYC - Citybridge,40.790818,-73.97481,Outdoor Kiosk,New York
+4786,MN,Free,BETA LinkNYC - Citybridge,40.791401,-73.973822,Outdoor Kiosk,New York
+4787,MN,Free,BETA LinkNYC - Citybridge,40.791943,-73.973425,Outdoor Kiosk,New York
+4788,MN,Free,BETA LinkNYC - Citybridge,40.79382,-73.972036,Outdoor Kiosk,New York
+4789,MN,Free,BETA LinkNYC - Citybridge,40.794041,-73.972568,Outdoor Kiosk,New York
+4790,MN,Free,BETA LinkNYC - Citybridge,40.795171,-73.971048,Outdoor Kiosk,New York
+4791,MN,Free,BETA LinkNYC - Citybridge,40.796762,-73.970651,Outdoor Kiosk,New York
+4792,MN,Free,BETA LinkNYC - Citybridge,40.797148,-73.96963,Outdoor Kiosk,New York
+4793,MN,Free,BETA LinkNYC - Citybridge,40.798954,-73.968326,Outdoor Kiosk,New York
+4794,MN,Free,BETA LinkNYC - Citybridge,40.79933,-73.96823,Outdoor Kiosk,New York
+4795,MN,Free,BETA LinkNYC - Citybridge,40.800581,-73.967782,Outdoor Kiosk,New York
+4796,MN,Free,BETA LinkNYC - Citybridge,40.802126,-73.967493,Outdoor Kiosk,New York
+4797,MN,Free,BETA LinkNYC - Citybridge,40.802455,-73.968149,Outdoor Kiosk,New York
+4798,MN,Free,BETA LinkNYC - Citybridge,40.802944,-73.967379,Outdoor Kiosk,New York
+4799,MN,Free,BETA LinkNYC - Citybridge,40.803721,-73.967381,Outdoor Kiosk,New York
+4800,MN,Free,BETA LinkNYC - Citybridge,40.805472,-73.965526,Outdoor Kiosk,New York
+4801,MN,Free,BETA LinkNYC - Citybridge,40.75096,-73.974135,Outdoor Kiosk,New York
+4802,MN,Free,BETA LinkNYC - Citybridge,40.805923,-73.965081,Outdoor Kiosk,New York
+4803,MN,Free,BETA LinkNYC - Citybridge,40.820281,-73.955267,Outdoor Kiosk,New York
+4804,MN,Free,BETA LinkNYC - Citybridge,40.82077,-73.954821,Outdoor Kiosk,New York
+4805,MN,Free,BETA LinkNYC - Citybridge,40.822319,-73.953676,Outdoor Kiosk,New York
+4806,MN,Free,BETA LinkNYC - Citybridge,40.822495,-73.953007,Outdoor Kiosk,New York
+4807,MN,Free,BETA LinkNYC - Citybridge,40.823326,-73.953041,Outdoor Kiosk,New York
+4808,MN,Free,BETA LinkNYC - Citybridge,40.808039,-73.964212,Outdoor Kiosk,New York
+4809,MN,Free,BETA LinkNYC - Citybridge,40.807508,-73.964488,Outdoor Kiosk,New York
+4810,MN,Free,BETA LinkNYC - Citybridge,40.824559,-73.951597,Outdoor Kiosk,New York
+4811,MN,Free,BETA LinkNYC - Citybridge,40.825091,-73.951659,Outdoor Kiosk,New York
+4812,MN,Free,BETA LinkNYC - Citybridge,40.825508,-73.950907,Outdoor Kiosk,New York
+4813,MN,Free,BETA LinkNYC - Citybridge,40.82609,-73.950482,Outdoor Kiosk,New York
+4814,MN,Free,BETA LinkNYC - Citybridge,40.827321,-73.950028,Outdoor Kiosk,New York
+4815,MN,Free,BETA LinkNYC - Citybridge,40.827932,-73.949581,Outdoor Kiosk,New York
+4816,MN,Free,BETA LinkNYC - Citybridge,40.82758,-73.949288,Outdoor Kiosk,New York
+4817,MN,Free,BETA LinkNYC - Citybridge,40.828097,-73.949017,Outdoor Kiosk,New York
+4818,MN,Free,BETA LinkNYC - Citybridge,40.828543,-73.949135,Outdoor Kiosk,New York
+4819,MN,Free,BETA LinkNYC - Citybridge,40.829037,-73.948869,Outdoor Kiosk,New York
+4820,MN,Free,BETA LinkNYC - Citybridge,40.829675,-73.947866,Outdoor Kiosk,New York
+4821,MN,Free,BETA LinkNYC - Citybridge,40.830208,-73.947909,Outdoor Kiosk,New York
+4822,MN,Free,BETA LinkNYC - Citybridge,40.830586,-73.947195,Outdoor Kiosk,New York
+4823,MN,Free,BETA LinkNYC - Citybridge,40.830876,-73.946986,Outdoor Kiosk,New York
+4824,MN,Free,BETA LinkNYC - Citybridge,40.836501,-73.942787,Outdoor Kiosk,New York
+4825,MN,Free,BETA LinkNYC - Citybridge,40.718036,-74.001021,Outdoor Kiosk,New York
+4826,MN,Free,BETA LinkNYC - Citybridge,40.717828,-74.000962,Outdoor Kiosk,New York
+4827,MN,Free,BETA LinkNYC - Citybridge,40.717484,-74.001523,Outdoor Kiosk,New York
+4828,MN,Free,BETA LinkNYC - Citybridge,40.717243,-74.001743,Outdoor Kiosk,New York
+4829,MN,Free,BETA LinkNYC - Citybridge,40.716033,-74.00257,Outdoor Kiosk,New York
+4830,MN,Free,BETA LinkNYC - Citybridge,40.731157,-73.985928,Outdoor Kiosk,New York
+4831,MN,Free,BETA LinkNYC - Citybridge,40.730539,-73.986394,Outdoor Kiosk,New York
+4832,MN,Free,BETA LinkNYC - Citybridge,40.730881,-73.985882,Outdoor Kiosk,New York
+4833,MN,Free,BETA LinkNYC - Citybridge,40.730249,-73.986348,Outdoor Kiosk,New York
+4834,MN,Free,BETA LinkNYC - Citybridge,40.72848,-73.987875,Outdoor Kiosk,New York
+4835,MN,Free,BETA LinkNYC - Citybridge,40.72824,-73.987837,Outdoor Kiosk,New York
+4836,MN,Free,BETA LinkNYC - Citybridge,40.728027,-73.987965,Outdoor Kiosk,New York
+4837,MN,Free,BETA LinkNYC - Citybridge,40.726049,-73.989403,Outdoor Kiosk,New York
+4838,MN,Free,BETA LinkNYC - Citybridge,40.725641,-73.989698,Outdoor Kiosk,New York
+4839,MN,Free,BETA LinkNYC - Citybridge,40.721716,-73.993343,Outdoor Kiosk,New York
+4840,MN,Free,BETA LinkNYC - Citybridge,40.720597,-73.994078,Outdoor Kiosk,New York
+4841,MN,Free,BETA LinkNYC - Citybridge,40.719905,-73.994058,Outdoor Kiosk,New York
+4842,MN,Free,BETA LinkNYC - Citybridge,40.803579,-73.966917,Outdoor Kiosk,New York
+4843,MN,Free,BETA LinkNYC - Citybridge,40.804835,-73.965995,Outdoor Kiosk,New York
+4844,MN,Free,BETA LinkNYC - Citybridge,40.813669,-73.95619,Outdoor Kiosk,New York
+4845,MN,Free,BETA LinkNYC - Citybridge,40.818371,-73.952755,Outdoor Kiosk,New York
+4846,MN,Free,BETA LinkNYC - Citybridge,40.825947,-73.946952,Outdoor Kiosk,New York
+4847,MN,Free,BETA LinkNYC - Citybridge,40.824578,-73.952134,Outdoor Kiosk,New York
+4848,MN,Free,BETA LinkNYC - Citybridge,40.822703,-73.953499,Outdoor Kiosk,New York
+4849,MN,Free,BETA LinkNYC - Citybridge,40.821918,-73.95331,Outdoor Kiosk,New York
+4850,MN,Free,BETA LinkNYC - Citybridge,40.814496,-73.95935,Outdoor Kiosk,New York
+4851,MN,Free,BETA LinkNYC - Citybridge,40.805516,-73.966052,Outdoor Kiosk,New York
+4852,MN,Free,BETA LinkNYC - Citybridge,40.799507,-73.939041,Outdoor Kiosk,New York
+4853,MN,Free,BETA LinkNYC - Citybridge,40.791202,-73.944781,Outdoor Kiosk,New York
+4854,MN,Free,BETA LinkNYC - Citybridge,40.827193,-73.946443,Outdoor Kiosk,New York
+4855,MN,Free,BETA LinkNYC - Citybridge,40.827195,-73.946043,Outdoor Kiosk,New York
+4856,MN,Free,BETA LinkNYC - Citybridge,40.830367,-73.943722,Outdoor Kiosk,New York
+4857,MN,Free,BETA LinkNYC - Citybridge,40.832283,-73.942327,Outdoor Kiosk,New York
+4858,MN,Free,BETA LinkNYC - Citybridge,40.832732,-73.942268,Outdoor Kiosk,New York
+4859,MN,Free,BETA LinkNYC - Citybridge,40.833447,-73.94174,Outdoor Kiosk,New York
+4860,MN,Free,BETA LinkNYC - Citybridge,40.833861,-73.941447,Outdoor Kiosk,New York
+4861,MN,Free,BETA LinkNYC - Citybridge,40.834247,-73.941163,Outdoor Kiosk,New York
+4862,MN,Free,BETA LinkNYC - Citybridge,40.834078,-73.940919,Outdoor Kiosk,New York
+4863,MN,Free,BETA LinkNYC - Citybridge,40.834815,-73.940477,Outdoor Kiosk,New York
+4864,MN,Free,BETA LinkNYC - Citybridge,40.798535,-73.969281,Outdoor Kiosk,New York
+4865,MN,Free,BETA LinkNYC - Citybridge,40.777227,-73.982777,Outdoor Kiosk,New York
+4866,MN,Free,BETA LinkNYC - Citybridge,40.775999,-73.983247,Outdoor Kiosk,New York
+4867,MN,Free,BETA LinkNYC - Citybridge,40.776066,-73.983627,Outdoor Kiosk,New York
+4868,MN,Free,BETA LinkNYC - Citybridge,40.773006,-73.958069,Outdoor Kiosk,New York
+4869,MN,Free,BETA LinkNYC - Citybridge,40.721425,-73.993454,Outdoor Kiosk,New York
+4870,QU,Free,BETA LinkNYC - Citybridge,40.71317,-73.829803,Outdoor Kiosk,New York
+4871,QU,Free,BETA LinkNYC - Citybridge,40.717664,-73.836262,Outdoor Kiosk,New York
+4872,QU,Free,BETA LinkNYC - Citybridge,40.719293,-73.839741,Outdoor Kiosk,New York
+4873,QU,Free,BETA LinkNYC - Citybridge,40.715758,-73.833513,Outdoor Kiosk,New York
+4874,QU,Free,BETA LinkNYC - Citybridge,40.718602,-73.838184,Outdoor Kiosk,New York
+2676,BK,Free,City Tech,40.696027,-73.988456,Outdoor,New York
+2677,BK,Free,City Tech,40.695921,-73.988118,Outdoor,New York
+2678,BK,Free,City Tech,40.695902,-73.987394,Outdoor,New York
+2679,BK,Free,City Tech,40.69511,-73.988482,Outdoor,New York
+2680,BK,Free,City Tech,40.69511,-73.988482,Outdoor,New York
+2681,BK,Free,City Tech,40.695902,-73.987394,Outdoor,New York
+2682,BK,Free,City Tech,40.696027,-73.988456,Outdoor,New York
+2683,BK,Free,City Tech,40.695038,-73.987331,Outdoor,New York
+2684,BK,Free,City Tech,40.695107,-73.988105,Outdoor,New York
+2685,BK,Free,City Tech,40.695088,-73.987671,Outdoor,New York
+2686,BK,Free,City Tech,40.695038,-73.987331,Outdoor,New York
+2687,BK,Free,NYCHA,40.693701,-73.982195,Outdoor,New York
+2688,BK,Free,NYCHA,40.693862,-73.982906,Outdoor,New York
+2689,BK,Free,NYCHA,40.693727,-73.982909,Outdoor,New York
+2690,BK,Free,NYCHA,40.693859,-73.982476,Outdoor,New York
+2691,BK,Free,NYCHA,40.693833,-73.982192,Outdoor,New York
+2692,BK,Free,NYCHA,40.694893,-73.98118,Outdoor,New York
+2693,BK,Free,NYCHA,40.694555,-73.981679,Outdoor,New York
+2695,BK,Free,NYCHA,40.695544,-73.981648,Outdoor,New York
+2696,BK,Free,NYCHA,40.69567,-73.979752,Outdoor,New York
+2697,BK,Free,NYCHA,40.695295,-73.980103,Outdoor,New York
+2698,BK,Free,NYCHA,40.695009,-73.979547,Outdoor,New York
+2699,BK,Free,NYCHA,40.694623,-73.979909,Outdoor,New York
+2700,BK,Free,NYCHA,40.694137,-73.979813,Outdoor,New York
+2701,BK,Free,NYCHA,40.69454,-73.979416,Outdoor,New York
+2702,BK,Free,NYCHA,40.694626,-73.97518,Outdoor,New York
+2703,BK,Free,NYCHA,40.694892,-73.975416,Outdoor,New York
+2704,BK,Free,NYCHA,40.694868,-73.975024,Outdoor,New York
+2705,BK,Free,NYCHA,40.694394,-73.975054,Outdoor,New York
+2706,BK,Free,NYCHA,40.694557,-73.975336,Outdoor,New York
+2707,BK,Free,NYCHA,40.693392,-73.973923,Outdoor,New York
+2708,BK,Free,NYCHA,40.694382,-73.974614,Outdoor,New York
+2709,BK,Free,NYCHA,40.693724,-73.977351,Outdoor,New York
+2710,BK,Free,NYCHA,40.69374,-73.977796,Outdoor,New York
+2711,BK,Free,NYCHA,40.69368,-73.977246,Outdoor,New York
+2712,BK,Free,NYCHA,40.693509,-73.976981,Outdoor,New York
+2713,BK,Free,NYCHA,40.693493,-73.976635,Outdoor,New York
+2714,BK,Free,NYCHA,40.693442,-73.973193,Outdoor,New York

@@ -1,0 +1,119 @@
+---
+title: "present"
+output: html_document
+---
+```{r}
+library(tidyr, dplyr)
+library(ggplot2)
+library(broom)
+library(RColorBrewer)
+library(cluster)
+library(useful)
+library(pvclust)
+library(mclust)
+library(fpc)
+library(corrplot)
+library(ggmap) 
+
+#construct freeWIFI dataframe
+Wifi<- read.table("FreeWiFi.csv", sep = ",", header = TRUE)
+W1 <- dplyr::select(Wifi, LON, LAT)
+W1 <- na.omit(W1)
+W1 <- scale(W1)
+fit1 <- kmeans(W1, 10) 
+fit1$cluster
+Wifi <- data.frame(Wifi, fit1$cluster)
+#names(W2) <- c("latitude", "longitude","cluster") 
+Wifi$fit1.cluster <- as.factor(Wifi$fit1.cluster)
+
+ggplot(Wifi, aes(LON, LAT, colour = fit1.cluster)) + geom_line() + xlab("longitude") + ylab("latitude")
+p <- ggplot(Wifi,aes(LON, LAT))
+p + geom_point(size=1,aes(colour=fit1.cluster))+theme(legend.position='top')
+```
+
+image: ![](Wifi_mapping.jpeg)
+
+```{r}
+#construct dataframe that kids in lower income home
+K1<- read.table("SeniorsSchoolAgedPoverty.csv", sep = ",", header = TRUE)
+K1 <- na.omit(K1)
+K2 <- dplyr::select(K1, HOUSEHOLDS,HOUSEwKids,HOUSEbelowPLwKids,Kids,KidsBELOWPOVERTYLEVEL)
+K2 <- na.omit(K2)
+K2 <- scale(K2)
+mydata <- K2
+
+
+COR <- cor(K2)
+corrplot(COR, order="AOE", method="circle", tl.pos="lt", type="upper",        
+         tl.col="black", tl.cex=0.6, tl.srt=45, 
+         addCoef.col="black", addCoefasPercent = TRUE,
+         sig.level=0.50, insig = "blank")
+```
+
+image: ![](K1correlation.jpeg)
+```{r}
+#determining how many clusters we need for this data set
+fit <- Mclust(mydata)
+plot(fit)
+summary(fit)
+```
+
+----------------------------------------------------
+Gaussian finite mixture model fitted by EM algorithm 
+----------------------------------------------------
+
+Mclust VEV (ellipsoidal, equal shape) model with 5 components:
+
+ log.likelihood   n df     BIC      ICL
+       1340.144 229 88 2202.12 2163.019
+
+Clustering table:
+ 1  2  3  4  5 
+55 32 64 66 12 
+
+image: ![](K1bic.jpeg)
+
+```{r}
+# K-Means Clustering with 5 clusters
+fit1 <- kmeans(mydata, 5)
+
+# Cluster Plot against 1st 2 principal components
+
+# vary parameters for most readable graph
+
+clusplot(mydata, fit1$cluster, color=TRUE, shade=TRUE, 
+         labels=2, lines=0)
+
+# Centroid Plot against 1st 2 discriminant functions
+
+plotcluster(mydata, fit1$cluster)
+
+fit2 <- kmeans(mydata, 3)
+
+# Cluster Plot against 1st 2 principal components
+
+# vary parameters for most readable graph
+
+clusplot(mydata, fit2$cluster, color=TRUE, shade=TRUE, 
+         labels=2, lines=0)
+
+# Centroid Plot against 1st 2 discriminant functions
+
+plotcluster(mydata, fit2$cluster)
+```
+image: ![](Cluster5.jpeg)
+
+image: ![](Cluster3.jpeg)
+
+
+```{r}
+fit2 <- kmeans(K2, 5) 
+fit2$cluster
+K1 <- data.frame(K1, fit2$cluster)
+K1$fit2.cluster <- as.factor(K1$fit2.cluster)
+```
+
+image: ![](data.png)
+
+
+
