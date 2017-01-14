@@ -18,6 +18,7 @@ library(ggmap)
 #construct freeWIFI dataframe
 Wifi<- read.table("FreeWiFi.csv", sep = ",", header = TRUE)
 W1 <- dplyr::select(Wifi, LON, LAT)
+
 W1 <- na.omit(W1)
 W1 <- scale(W1)
 fit1 <- kmeans(W1, 10) 
@@ -123,3 +124,17 @@ write.csv(locations, file = "locations.csv", row.names = FALSE)
 ```
 
 image: ![](carto.png)
+```{r}
+location<- read.table("locations.csv", sep = ",", header = TRUE)
+L1 <- na.omit(location)
+
+ggplot(L1, aes(lon, lat)) + geom_line() + xlab("longitude") + ylab("latitude")
+p <- ggplot(L1,aes(lon, lat))
+p + geom_point(size=1)+theme(legend.position='top')
+```
+
+```{r}
+Wifi2<- read.table("wifi2017Jan.csv", sep = ",", header = TRUE)
+W2 <- dplyr::filter(Wifi, TYPE == "Free")
+```
+
