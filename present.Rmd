@@ -142,8 +142,10 @@ subway  <- dplyr::filter(Wifi2, Location_T == "Subway Station")
 Kiosk  <- dplyr::filter(Wifi2, Location_T == "Outdoor Kiosk")
 
 NYtrumptower<- read.table("NYtrumptower.csv", sep = ",", header = TRUE)
+NYCMayorlocation <- geocode(as.character(NYCMayor$Address))
 Trumplocations <- geocode(as.character(NYtrumptower$address))
 
 write.csv(Trumplocations, file = "trumplocations.csv", row.names = FALSE)
+write.csv(NYCMayorlocation, file = "NYCMayorlocation.csv", row.names = FALSE)
 ```
 
