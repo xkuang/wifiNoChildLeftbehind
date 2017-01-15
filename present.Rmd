@@ -135,6 +135,15 @@ p + geom_point(size=1)+theme(legend.position='top')
 
 ```{r}
 Wifi2<- read.table("wifi2017Jan.csv", sep = ",", header = TRUE)
-W2 <- dplyr::filter(Wifi, TYPE == "Free")
+library <- dplyr::filter(Wifi2, Location_T == "Library")
+NYPL <- dplyr::filter(library, Provider == "NYPL")
+MNYPL <- dplyr::filter(NYPL, City == "New York")
+subway  <- dplyr::filter(Wifi2, Location_T == "Subway Station")
+Kiosk  <- dplyr::filter(Wifi2, Location_T == "Outdoor Kiosk")
+
+NYtrumptower<- read.table("NYtrumptower.csv", sep = ",", header = TRUE)
+Trumplocations <- geocode(as.character(NYtrumptower$address))
+
+write.csv(Trumplocations, file = "trumplocations.csv", row.names = FALSE)
 ```
 
